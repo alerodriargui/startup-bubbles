@@ -11,9 +11,15 @@ function App() {
 
   // Escala de colores para todos los sectores (constante)
   const allSectors = Array.from(new Set(allStartups.map(d => d.sector)));
+  const brightColors = [
+    "#FF5733", "#33FF57", "#3357FF", "#FF33A8", "#A833FF", 
+    "#33FFF3", "#FFC733", "#FF3333", "#33FF8A", "#8A33FF",
+    "#FF8A33", "#33A8FF", "#A8FF33", "#FF33F0", "#33FFDA"
+  ];
+
   const colorScale = d3.scaleOrdinal()
     .domain(allSectors)
-    .range(d3.schemeCategory10.concat(d3.schemeSet3).slice(0, allSectors.length));
+    .range(brightColors.slice(0, allSectors.length));
 
   // Tooltip
   useEffect(() => {
@@ -90,26 +96,42 @@ function App() {
 
     function ticked() {
       const u = g.selectAll('circle')
-                 .data(startups)
-                 .join('circle')
-                 .attr('r', d => radiusScale(d.valuation))
-                 .attr('cx', d => d.x)
-                 .attr('cy', d => d.y)
-                 .attr('fill', d => colorScale(d.sector))
-                 .attr('stroke', '#333')
-                 .attr('stroke-width', 1.5)
-                 .style('filter', 'drop-shadow(2px 2px 4px rgba(0,0,0,0.5))')
-                 .style('cursor', 'pointer');
+                .data(startups)
+                .join('circle')
+                .attr('r', d => radiusScale(d.valuation))
+                .attr('cx', d => d.x)
+                .attr('cy', d => d.y)
+                .attr('fill', d => colorScale(d.sector))
+                .attr('stroke', '#333')
+                .attr('stroke-width', 1.5)
+                .style('filter', 'drop-shadow(2px 2px 4px rgba(0,0,0,0.5))')
+                .style('cursor', 'pointer')
+                .call(d3.drag()   // <<< Añadido drag
+                    .on('start', (event, d) => {
+                        if (!event.active) simulationRef.current.alphaTarget(0.3).restart();
+                        d.fx = d.x;
+                        d.fy = d.y;
+                    })
+                    .on('drag', (event, d) => {
+                        d.fx = event.x;
+                        d.fy = event.y;
+                    })
+                    .on('end', (event, d) => {
+                        if (!event.active) simulationRef.current.alphaTarget(0);
+                        d.fx = null; // si quieres que vuelva a moverse libremente
+                        d.fy = null;
+                    })
+                );
 
       u.on('mouseover', (event, d) => {
           tooltip.style('opacity', 1)
-                 .html(`<b>${d.name}</b><br/>${d.sector}<br/>${(d.valuation / 1000).toFixed(1)}B$`)
-                 .style('left', (event.pageX + 10) + 'px')
-                 .style('top', (event.pageY + 10) + 'px');
+                .html(`<b>${d.name}</b><br/>${d.sector}<br/>${(d.valuation / 1000).toFixed(1)}B$`)
+                .style('left', (event.pageX + 10) + 'px')
+                .style('top', (event.pageY + 10) + 'px');
         })
         .on('mousemove', (event) => {
           tooltip.style('left', (event.pageX + 10) + 'px')
-                 .style('top', (event.pageY + 10) + 'px');
+                .style('top', (event.pageY + 10) + 'px');
         })
         .on('mouseout', () => tooltip.style('opacity', 0));
     }
@@ -125,15 +147,16 @@ function App() {
       .alpha(1)
       .restart();
 
-    // --- Zoom y pan ---
+    // --- Zoom solo centrado ---
     const zoom = d3.zoom()
-                   .scaleExtent([0.05, 5])
-                   .on('zoom', (event) => g.attr('transform', event.transform));
+      .scaleExtent([0.1, 3])       // zoom hacia dentro y fuera
+      .translateExtent([[width/2, height/2], [width/2, height/2]]) // limita la traslación al centro
+      .on('zoom', (event) => g.attr('transform', `translate(${width/2},${height/2}) scale(${event.transform.k}) translate(${-width/2},${-height/2})`));
+
     svg.call(zoom);
-    const initialScale = 0.6; // ajusta el zoom inicial (menos de 1 alejado)
-    const initialX = width / 2;
-    const initialY = height / 2;
-    svg.call(zoom.transform, d3.zoomIdentity.translate(initialX * (1 - initialScale), initialY * (1 - initialScale)).scale(initialScale));
+
+    // Ajuste inicial de zoom centrado
+    svg.call(zoom.transform, d3.zoomIdentity.translate(width/2, height/2).scale(0.6).translate(-width/2, -height/2));
 
   }, [startups]);
 
@@ -145,11 +168,16 @@ function App() {
       <h1 style={{ color: 'white', textAlign: 'center', marginTop: '20px' }}>
          Startup Bubbles
       </h1>
+        {/* Total valuation */}
+  <div style={{ color: 'white', fontWeight: 'bold', fontSize: '16px' }}>
+    Total Valuation: {(startups.reduce((acc, s) => acc + s.valuation, 0) / 1000000).toFixed(1)}T$
+  </div>
 
       {/* Selector Top N */}
-      <div style={{ textAlign: 'center', marginBottom: '15px' }}>
+      <div style={{ textAlign: 'center', marginBottom: '15px', marginTop: '14px' }}>
         <label style={{ color: 'white', marginRight: '10px' }}>Show:</label>
         <select value={limit} onChange={(e) => setLimit(e.target.value)}>
+          <option value="50">Top 50</option>
           <option value="100">Top 100</option>
           <option value="200">Top 200</option>
           <option value="500">Top 500</option>
@@ -157,7 +185,6 @@ function App() {
           <option value="all">All</option>
         </select>
       </div>
-
       <svg id="chart" style={{ display: 'block', margin: '0 auto' }}></svg>
 
       {/* Leyenda de colores */}
