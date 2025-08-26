@@ -81,8 +81,11 @@ function App() {
     // --- Centros por sector dinámicos ---
     const visibleSectors = Array.from(new Set(startups.map(d => d.sector)));
     const cols = Math.ceil(Math.sqrt(visibleSectors.length));
-    const rowHeight = height / cols;
+    const rows = Math.ceil(visibleSectors.length / cols);
+    const rowHeight = height / rows;
     const colWidth = width / cols;
+
+
     const sectorCenters = {};
     visibleSectors.forEach((sector, i) => {
       sectorCenters[sector] = {
@@ -150,9 +153,9 @@ function App() {
     // --- Zoom solo centrado ---
     const zoom = d3.zoom()
       .scaleExtent([0.1, 3])       // zoom hacia dentro y fuera
-      .translateExtent([[width/2, height/2], [width/2, height/2]]) // limita la traslación al centro
-      .on('zoom', (event) => g.attr('transform', `translate(${width/2},${height/2}) scale(${event.transform.k}) translate(${-width/2},${-height/2})`));
-
+    .on('zoom', (event) => {
+    g.attr('transform', event.transform); // zoom centrado en el cursor
+  });
     svg.call(zoom);
 
     // Ajuste inicial de zoom centrado
@@ -170,7 +173,7 @@ function App() {
       </h1>
         {/* Total valuation */}
   <div style={{ color: 'white', fontWeight: 'bold', fontSize: '16px' }}>
-    Total Valuation: {(startups.reduce((acc, s) => acc + s.valuation, 0) / 1000000).toFixed(1)}T$
+    Total Valuation: {(startups.reduce((acc, s) => acc + s.valuation, 0) / 1000000).toFixed(2)}T$
   </div>
 
       {/* Selector Top N */}
@@ -185,7 +188,7 @@ function App() {
           <option value="all">All</option>
         </select>
       </div>
-      <svg id="chart" style={{ display: 'block', margin: '0 auto' }}></svg>
+      <svg id="chart"   style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto', marginTop: '30px' }}></svg>
 
       {/* Leyenda de colores */}
       <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', marginTop: '15px', gap: '10px' }}>
