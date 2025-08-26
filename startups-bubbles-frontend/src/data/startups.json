@@ -35,7 +35,7 @@
     "dateJoined": "2019-07-22",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Khosla Ventures",
       "Thrive Capital",
@@ -49,7 +49,7 @@
     "dateJoined": "2019-02-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "New Enterprise Associates",
@@ -63,7 +63,7 @@
     "dateJoined": "2014-01-23",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Khosla Ventures",
       "LowercaseCapital",
@@ -91,7 +91,7 @@
     "dateJoined": "2023-02-03",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google"
     ]
@@ -103,7 +103,7 @@
     "dateJoined": "2024-05-26",
     "country": "United States",
     "city": "Burlingame",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "Andreessen Horowitz",
@@ -117,7 +117,7 @@
     "dateJoined": "2018-04-26",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Index Ventures",
       "DST Global",
@@ -131,7 +131,7 @@
     "dateJoined": "2018-01-08",
     "country": "Australia",
     "city": "Surry Hills",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital China",
       "Blackbird Ventures",
@@ -159,7 +159,7 @@
     "dateJoined": "2024-09-04",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "DST Global",
@@ -187,7 +187,7 @@
     "dateJoined": "2019-03-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Forerunner Ventures",
       "Crosslink Capital",
@@ -201,7 +201,7 @@
     "dateJoined": "2021-03-29",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "D1 Capital Partners",
       "Stripe",
@@ -215,7 +215,7 @@
     "dateJoined": "2022-01-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "AltaIR Capital",
@@ -243,7 +243,7 @@
     "dateJoined": "2020-08-04",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Initialized Capital",
       "Y Combinator",
@@ -326,7 +326,7 @@
     "dateJoined": "2019-12-20",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "IDG Capital",
       "Venture51",
@@ -340,7 +340,7 @@
     "dateJoined": "2011-12-12",
     "country": "Sweden",
     "city": "Stockholm",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Institutional Venture Partners",
       "Sequoia Capital",
@@ -368,7 +368,7 @@
     "dateJoined": "2019-08-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Y Combinator",
@@ -396,7 +396,7 @@
     "dateJoined": "2018-06-26",
     "country": "Germany",
     "city": "Munich",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "83North"
@@ -451,7 +451,7 @@
     "dateJoined": "2018-10-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "DST Global",
       "Ribbit Capital",
@@ -477,7 +477,7 @@
     "dateJoined": "2018-07-06",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Coatue Management",
       "Sequoia Capital China",
@@ -491,7 +491,7 @@
     "dateJoined": "2021-10-13",
     "country": "United States",
     "city": "Roseville",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "New Enterprise Associates",
       "BDT Capital Partners",
@@ -519,7 +519,7 @@
     "dateJoined": "2021-04-21",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Spark Capital",
@@ -533,7 +533,7 @@
     "dateJoined": "2018-11-15",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Caffeinated Capital",
       "CRV",
@@ -561,7 +561,7 @@
     "dateJoined": "2016-12-22",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Aviation Industry Corporation of China",
       "Essence Financial",
@@ -575,7 +575,7 @@
     "dateJoined": "2019-05-02",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tiger Global Management",
       "Insight Partners",
@@ -589,7 +589,7 @@
     "dateJoined": "2021-10-08",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Activant Capital",
       "Tribe Capital",
@@ -603,7 +603,7 @@
     "dateJoined": "2021-10-28",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "DFJ Growth Fund",
       "Coatue Management",
@@ -617,7 +617,7 @@
     "dateJoined": "2022-10-25",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Camber Creek",
       "Kairos HQ",
@@ -659,7 +659,7 @@
     "dateJoined": "2025-06-20",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Accel"
@@ -672,7 +672,7 @@
     "dateJoined": "2015-12-18",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "General Catalyst Partners",
       "Google Ventures",
@@ -699,7 +699,7 @@
     "dateJoined": "2018-10-03",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "DJF",
       "Salesforce Ventures",
@@ -713,7 +713,7 @@
     "dateJoined": "2020-04-01",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Draft Ventures",
@@ -727,7 +727,7 @@
     "dateJoined": "2021-11-01",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Ribbit Capital",
       "capitalG",
@@ -741,7 +741,7 @@
     "dateJoined": "2022-05-10",
     "country": "Seychelles",
     "city": "Victoria",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "IDG Capital",
       "Matrix Partners China",
@@ -755,7 +755,7 @@
     "dateJoined": "2024-04-24",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Founders Fund",
       "Khosla Ventures"
@@ -782,7 +782,7 @@
     "dateJoined": "2019-01-10",
     "country": "Germany",
     "city": "Berlin",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Redalpine Venture Partners",
       "Earlybird Venture Capital",
@@ -796,7 +796,7 @@
     "dateJoined": "2018-11-08",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Lightspeed Venture Partners",
@@ -810,7 +810,7 @@
     "dateJoined": "2020-04-16",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Norwest Venture Partners",
       "Goldman Sachs",
@@ -824,7 +824,7 @@
     "dateJoined": "2024-12-20",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Thrive Capital",
@@ -838,7 +838,7 @@
     "dateJoined": "2024-04-23",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "New Enterprise Associates",
       "Institutional Venture Partners",
@@ -852,7 +852,7 @@
     "dateJoined": "2015-03-31",
     "country": "United States",
     "city": "Kirkland",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Nor-Cal Invest",
@@ -895,7 +895,7 @@
     "dateJoined": "2019-12-03",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Target Global",
       "General Catalyst",
@@ -909,7 +909,7 @@
     "dateJoined": "2020-11-23",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Addition",
       "Benhcmark",
@@ -923,7 +923,7 @@
     "dateJoined": "2021-01-19",
     "country": "Germany",
     "city": "Munich",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Global Founders Capital",
       "Nortzone Ventures",
@@ -937,7 +937,7 @@
     "dateJoined": "2019-07-16",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "American Express Ventures",
       "Goldman Sachs",
@@ -965,7 +965,7 @@
     "dateJoined": "2020-10-06",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "01 Advisors",
       "Zeev Ventures",
@@ -993,7 +993,7 @@
     "dateJoined": "2021-07-27",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tenaya Capital",
       "Coatue Management",
@@ -1021,7 +1021,7 @@
     "dateJoined": "2021-08-10",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tiger Global Management",
       "American Express Ventures",
@@ -1063,7 +1063,7 @@
     "dateJoined": "2018-11-13",
     "country": "United States",
     "city": "Santa Clara",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Social Capital",
@@ -1091,7 +1091,7 @@
     "dateJoined": "2020-10-11",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sequoia Capital India",
       "Tiger Global Management",
@@ -1119,7 +1119,7 @@
     "dateJoined": "2019-05-06",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Menlo Ventures",
       "Spark Capital",
@@ -1133,7 +1133,7 @@
     "dateJoined": "2020-01-21",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "BOLDstart Ventures",
       "Google Ventures",
@@ -1147,7 +1147,7 @@
     "dateJoined": "2020-08-12",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Norwest Venture Partners",
       "Next World Capital",
@@ -1161,7 +1161,7 @@
     "dateJoined": "2021-11-19",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Morgan Creek Digital",
       "Marcy Venture Partners",
@@ -1175,7 +1175,7 @@
     "dateJoined": "2021-02-17",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Lightspeed Venture Partners",
       "Google Ventures",
@@ -1189,7 +1189,7 @@
     "dateJoined": "2018-12-09",
     "country": "South Korea",
     "city": "Seoul",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Bessemer Venture Partners",
       "Qualcomm Ventures",
@@ -1243,7 +1243,7 @@
     "dateJoined": "2021-11-17",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Third Point",
       "Electric Capital",
@@ -1257,7 +1257,7 @@
     "dateJoined": "2018-07-02",
     "country": "United States",
     "city": "San Jose",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Atlantic",
       "Goldman Sachs",
@@ -1271,7 +1271,7 @@
     "dateJoined": "2021-07-08",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Slack Fund",
       "Accel",
@@ -1285,7 +1285,7 @@
     "dateJoined": "2021-07-27",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Playground Global",
       "M12",
@@ -1328,7 +1328,7 @@
     "dateJoined": "2020-07-01",
     "country": "India",
     "city": "Mumbai",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "TA Associates",
       "SoftBank Group",
@@ -1342,7 +1342,7 @@
     "dateJoined": "2020-09-08",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Technology Crossover Ventures"
     ]
@@ -1368,7 +1368,7 @@
     "dateJoined": "2021-04-06",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tiger Global Management",
       "DST Global",
@@ -1382,7 +1382,7 @@
     "dateJoined": "2021-08-09",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Greylock Partners",
       "Google Ventures",
@@ -1396,7 +1396,7 @@
     "dateJoined": "2019-07-29",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "New Enterprise Associates",
       "Accomplice",
@@ -1410,7 +1410,7 @@
     "dateJoined": "2018-02-12",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Union Square Ventures",
       "Ribbit Capital",
@@ -1424,7 +1424,7 @@
     "dateJoined": "2023-12-10",
     "country": "France",
     "city": "Paris",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "General Catalyst",
@@ -1438,7 +1438,7 @@
     "dateJoined": "2021-05-20",
     "country": "United States",
     "city": "Los Angeles",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Barter Ventures"
     ]
@@ -1450,7 +1450,7 @@
     "dateJoined": "2018-12-11",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "New Enterprise Associates",
       "Spar Capital",
@@ -1478,7 +1478,7 @@
     "dateJoined": "2021-03-25",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Lead Edge Capital",
@@ -1492,7 +1492,7 @@
     "dateJoined": "2024-04-09",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "CyberStarts",
@@ -1547,7 +1547,7 @@
     "dateJoined": "2021-07-27",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "BlackRock",
       "Blackstone",
@@ -1561,7 +1561,7 @@
     "dateJoined": "2021-03-30",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Venrock",
       "Battery Ventures",
@@ -1575,7 +1575,7 @@
     "dateJoined": "2020-09-23",
     "country": "United States",
     "city": "Hoboken",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "NextView Ventures",
       "Eniac Ventures",
@@ -1603,7 +1603,7 @@
     "dateJoined": "2016-04-07",
     "country": "China",
     "city": "Beijing",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tencent",
       "Baidu",
@@ -1617,7 +1617,7 @@
     "dateJoined": "2021-01-12",
     "country": "United States",
     "city": "Mountain View",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Battery Ventures",
       "Storm Ventures",
@@ -1686,7 +1686,7 @@
     "dateJoined": "2020-06-11",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Nexus Venture Partners",
       "CRV",
@@ -1700,7 +1700,7 @@
     "dateJoined": "2020-06-30",
     "country": "United States",
     "city": "Oakland",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Matrix Partners",
       "Andreessen Horowitz",
@@ -1714,7 +1714,7 @@
     "dateJoined": "2021-05-25",
     "country": "France",
     "city": "Paris",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Highland Europe",
       "Eurazeo",
@@ -1728,7 +1728,7 @@
     "dateJoined": "2023-09-14",
     "country": "Germany",
     "city": "Munchen",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": []
   },
   {
@@ -1738,7 +1738,7 @@
     "dateJoined": "2021-05-20",
     "country": "Germany",
     "city": "Berlin",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Founders Fund. Accel",
       "Creandum"
@@ -1751,7 +1751,7 @@
     "dateJoined": "2021-07-29",
     "country": "Belgium",
     "city": "Louvain-la-Neuve",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Summit Partners",
       "Noshaq",
@@ -1794,7 +1794,7 @@
     "dateJoined": "2019-01-29",
     "country": "Belgium",
     "city": "Brussels",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Battery Ventures",
@@ -1808,7 +1808,7 @@
     "dateJoined": "2024-02-06",
     "country": "United States",
     "city": "Austin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": []
   },
   {
@@ -1818,7 +1818,7 @@
     "dateJoined": "2025-07-29",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "8VC",
       "Notable Capital"
@@ -1831,7 +1831,7 @@
     "dateJoined": "2024-10-28",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Benchmark",
       "Sequoia Capital",
@@ -1845,7 +1845,7 @@
     "dateJoined": "2019-07-11",
     "country": "United States",
     "city": "Atlanta",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Insight Partners"
     ]
@@ -1857,7 +1857,7 @@
     "dateJoined": "2019-09-09",
     "country": "Brazil",
     "city": "Campinas",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Kaszek Ventures",
       "General Atlantic",
@@ -1871,7 +1871,7 @@
     "dateJoined": "2018-10-31",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Passion Capital",
       "Thrive Capital",
@@ -1885,7 +1885,7 @@
     "dateJoined": "2020-12-02",
     "country": "Brazil",
     "city": "Sao Paulo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Credit Suisse"
     ]
@@ -1911,7 +1911,7 @@
     "dateJoined": "2022-05-10",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Greylock Partners",
       "Insight Partners",
@@ -1925,7 +1925,7 @@
     "dateJoined": "2019-03-25",
     "country": "Australia",
     "city": "Melbourne",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "DST Global",
       "Sequoia Capital China",
@@ -1939,7 +1939,7 @@
     "dateJoined": "2021-01-06",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Runa Capital",
       "Acton Capital Partners",
@@ -1981,7 +1981,7 @@
     "dateJoined": "2021-04-13",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Walden International",
       "Google Ventures",
@@ -1995,7 +1995,7 @@
     "dateJoined": "2021-08-23",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accel",
       "Technology Crossover Ventures",
@@ -2009,7 +2009,7 @@
     "dateJoined": "2017-10-12",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Clermont Group",
       "Coltrane Asset Management",
@@ -2064,7 +2064,7 @@
     "dateJoined": "2021-01-12",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google Ventures",
       "Benchmark",
@@ -2078,7 +2078,7 @@
     "dateJoined": "2020-01-24",
     "country": "India",
     "city": "Noida",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sequoia Capital India",
       "Temasek",
@@ -2092,7 +2092,7 @@
     "dateJoined": "2022-01-11",
     "country": "France",
     "city": "Paris",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Alven Capital",
       "Valar Ventures",
@@ -2106,7 +2106,7 @@
     "dateJoined": "2019-07-17",
     "country": "United States",
     "city": "Bellevue",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Eight Roads Ventures",
       "Greycroft",
@@ -2260,7 +2260,7 @@
     "dateJoined": "2021-02-25",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Threshold Ventures",
       "Lightspeed Venture Partners",
@@ -2274,7 +2274,7 @@
     "dateJoined": "2021-07-06",
     "country": "Denmark",
     "city": "Copenhagen",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Creandum",
       "Founders",
@@ -2288,7 +2288,7 @@
     "dateJoined": "2022-04-26",
     "country": "Switzerland",
     "city": "Geneva",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Advent International",
       "General Catalyst",
@@ -2316,7 +2316,7 @@
     "dateJoined": "2024-12-18",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Breyer Capital",
       "Parkway VC",
@@ -2330,7 +2330,7 @@
     "dateJoined": "2019-09-19",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Y Combinator",
       "Accel",
@@ -2344,7 +2344,7 @@
     "dateJoined": "2022-05-18",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Catalyst",
       "Kleiner Perkins Caufield & Byers",
@@ -2386,7 +2386,7 @@
     "dateJoined": "2021-03-31",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Ontario Teachers' Pension Plan",
       "Goldman Sachs"
@@ -2441,7 +2441,7 @@
     "dateJoined": "2021-03-16",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Two Sigma Ventures",
       "Flint Capital",
@@ -2469,7 +2469,7 @@
     "dateJoined": "2022-05-09",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Betaworks Ventures",
       "Addition",
@@ -2483,7 +2483,7 @@
     "dateJoined": "2019-04-16",
     "country": "United States",
     "city": "Seattle",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Mayfield Fund",
       "M12",
@@ -2497,7 +2497,7 @@
     "dateJoined": "2023-12-19",
     "country": "United States",
     "city": "Mountain View",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google Ventures",
       "Spark Capital",
@@ -2525,7 +2525,7 @@
     "dateJoined": "2019-11-13",
     "country": "United States",
     "city": "Denver",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Atlantic",
       "Blackstone",
@@ -2539,7 +2539,7 @@
     "dateJoined": "2020-10-22",
     "country": "United States",
     "city": "Eden Prairie",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Redpoint Ventures",
@@ -2553,7 +2553,7 @@
     "dateJoined": "2022-03-23",
     "country": "United States",
     "city": "Dallas",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Insight Partners",
       "Sequoia Capital",
@@ -2567,7 +2567,7 @@
     "dateJoined": "2018-06-05",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "KKR",
       "ES Ventures",
@@ -2637,7 +2637,7 @@
     "dateJoined": "2018-05-08",
     "country": "United States",
     "city": "Sunnyvale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Khosla Ventures",
@@ -2651,7 +2651,7 @@
     "dateJoined": "2022-01-24",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Vista Equity Partners",
       "Wincove",
@@ -2665,7 +2665,7 @@
     "dateJoined": "2021-06-30",
     "country": "United States",
     "city": "Philadelphia",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Amplify Partners",
@@ -2691,7 +2691,7 @@
     "dateJoined": "2022-06-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Craft Ventures",
       "Sequoia Capital",
@@ -2705,7 +2705,7 @@
     "dateJoined": "2018-06-04",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Venrock",
       "Institutional Venture Partners",
@@ -2719,7 +2719,7 @@
     "dateJoined": "2021-03-16",
     "country": "Austria",
     "city": "Vienna",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Speedinvest",
       "Valar Ventures",
@@ -2747,7 +2747,7 @@
     "dateJoined": "2022-06-15",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Viking Global Investors",
       "GS Growth",
@@ -2775,7 +2775,7 @@
     "dateJoined": "2019-11-19",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Undisclosed"
     ]
@@ -2813,7 +2813,7 @@
     "dateJoined": "2022-05-13",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Gates Frontier",
       "Greylock Partners",
@@ -2827,9 +2827,9 @@
     "dateJoined": "2017-10-31",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
-      "Ant Financial Services Group",
+      "Ant Finance Group",
       "Russia-China Investment Fund",
       "Foxconn Technology Company"
     ]
@@ -2841,7 +2841,7 @@
     "dateJoined": "2023-06-01",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "HongShan",
       "IDG Capital"
@@ -2854,7 +2854,7 @@
     "dateJoined": "2018-07-16",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "SoftBank Group",
       "General Atlantic"
@@ -2922,7 +2922,7 @@
     "dateJoined": "2021-01-14",
     "country": "United States",
     "city": "Sunnyvale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "Bessemer Venture Partners",
@@ -2949,7 +2949,7 @@
     "dateJoined": "2021-06-16",
     "country": "Ireland",
     "city": "Dublin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Insight Partners",
@@ -2963,7 +2963,7 @@
     "dateJoined": "2020-12-15",
     "country": "United States",
     "city": "San Diego",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Georgian Partners",
       "Craft Ventures"
@@ -2976,7 +2976,7 @@
     "dateJoined": "2018-11-14",
     "country": "United States",
     "city": "Los Altos",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Benchmark",
       "Foundation Capital",
@@ -3004,7 +3004,7 @@
     "dateJoined": "2018-09-10",
     "country": "United States",
     "city": "Redwood City",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "New Enterprise Associates",
       "Pear",
@@ -3032,7 +3032,7 @@
     "dateJoined": "2021-01-13",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Silversmith Capital Partners",
@@ -3088,7 +3088,7 @@
     "dateJoined": "2020-10-08",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Y Combinator",
       "Atomico",
@@ -3102,7 +3102,7 @@
     "dateJoined": "2021-07-01",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Blackstone",
       "ICONIQ Growth",
@@ -3130,7 +3130,7 @@
     "dateJoined": "2018-06-11",
     "country": "United States",
     "city": "San Jose",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "SoftBank Group",
       "Sequoia Capital",
@@ -3144,7 +3144,7 @@
     "dateJoined": "2024-10-10",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Run4 Capital"
     ]
@@ -3156,7 +3156,7 @@
     "dateJoined": "2019-12-04",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Alven Capital",
       "FirstMark Capital",
@@ -3198,7 +3198,7 @@
     "dateJoined": "2021-03-04",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bessemer Venture Partners",
       "Insight Partners",
@@ -3226,7 +3226,7 @@
     "dateJoined": "2021-01-14",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Menlo Ventures",
       "Alkeon Capital Management",
@@ -3240,7 +3240,7 @@
     "dateJoined": "2020-04-28",
     "country": "United States",
     "city": "Dallas",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "KKR"
     ]
@@ -3252,7 +3252,7 @@
     "dateJoined": "2021-03-18",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Silver Lake",
       "ICONIQ Capital"
@@ -3293,7 +3293,7 @@
     "dateJoined": "2021-05-26",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Dragoneer Investment Group",
       "DST Global",
@@ -3331,7 +3331,7 @@
     "dateJoined": "2024-07-25",
     "country": "United States",
     "city": "Kirkland",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Amplify Partners",
       "MANTIS Venture Capital",
@@ -3345,7 +3345,7 @@
     "dateJoined": "2021-08-25",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Institutional Venture Partners",
       "CRV",
@@ -3359,7 +3359,7 @@
     "dateJoined": "2024-12-18",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "West Palm Beach",
+    "sector": "Tech",
     "investors": [
       "AMD Ventures"
     ]
@@ -3453,7 +3453,7 @@
     "dateJoined": "2021-02-22",
     "country": "United States",
     "city": "Seattle",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Madrona Venture Group",
       "Shasta Ventures",
@@ -3467,7 +3467,7 @@
     "dateJoined": "2021-05-12",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Kleiner Perkins Caufield & Byers",
       "Lightspeed Venture Partners",
@@ -3481,7 +3481,7 @@
     "dateJoined": "2021-04-20",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Insight Partners",
       "Tiger Global Management",
@@ -3509,7 +3509,7 @@
     "dateJoined": "2021-11-22",
     "country": "United States",
     "city": "Miami",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "New Enterprise Associates",
       "Coatue Management",
@@ -3523,7 +3523,7 @@
     "dateJoined": "2021-11-29",
     "country": "India",
     "city": "Mumbai",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tiger Global Management",
       "Kalaari Capital"
@@ -3563,7 +3563,7 @@
     "dateJoined": "2021-01-06",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Coatue Management",
@@ -3591,7 +3591,7 @@
     "dateJoined": "2024-03-13",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Definition Capital",
       "Long Journey Ventures",
@@ -3605,7 +3605,7 @@
     "dateJoined": "2024-01-22",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Credo Ventures",
@@ -3633,7 +3633,7 @@
     "dateJoined": "2023-11-01",
     "country": "United Arab Emirates",
     "city": "Dubai",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Arbor Ventures",
       "STV",
@@ -3703,7 +3703,7 @@
     "dateJoined": "2021-09-21",
     "country": "United States",
     "city": "Los Angeles",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "BOLDstart Ventures",
       "Lerer Hippeau",
@@ -3717,7 +3717,7 @@
     "dateJoined": "2021-06-23",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "CRV",
       "Accel",
@@ -3743,7 +3743,7 @@
     "dateJoined": "2021-10-18",
     "country": "Finland",
     "city": "Helsinki",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Institutional Venture Partners",
       "Atomico",
@@ -3785,7 +3785,7 @@
     "dateJoined": "2021-08-12",
     "country": "India",
     "city": "Mumbai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital India",
       "Softbank",
@@ -3799,7 +3799,7 @@
     "dateJoined": "2023-04-25",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Bloomberg Beta",
@@ -3827,7 +3827,7 @@
     "dateJoined": "2021-08-24",
     "country": "Canada",
     "city": "Vancouver",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "AME Cloud Ventures",
       "Future Perfect Ventures",
@@ -3841,7 +3841,7 @@
     "dateJoined": "2025-08-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "Zeev Ventures"
@@ -3854,7 +3854,7 @@
     "dateJoined": "2021-06-15",
     "country": "United States",
     "city": "Mountain View",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "8VC",
       "D1 Capital Partners",
@@ -3882,7 +3882,7 @@
     "dateJoined": "2022-01-18",
     "country": "United States",
     "city": "Sacramento",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Sequoia Capital",
@@ -3910,7 +3910,7 @@
     "dateJoined": "2021-12-22",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital"
     ]
@@ -3936,7 +3936,7 @@
     "dateJoined": "2020-01-07",
     "country": "United States",
     "city": "Houston",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Susquehanna Growth Equity",
       "Citi Ventures",
@@ -3964,7 +3964,7 @@
     "dateJoined": "2022-01-31",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Paradigm",
       "Andreessen Horowitz",
@@ -3978,7 +3978,7 @@
     "dateJoined": "2022-03-30",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "FTX Ventures",
@@ -3992,7 +3992,7 @@
     "dateJoined": "2024-07-23",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "OpenAI Startup Fund",
       "Kleiner Perkins",
@@ -4006,7 +4006,7 @@
     "dateJoined": "2024-10-02",
     "country": "France",
     "city": "Paris",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Felicis",
       "Redpoint Ventures",
@@ -4034,7 +4034,7 @@
     "dateJoined": "2021-04-27",
     "country": "Canada",
     "city": "Burnaby",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "OMERS Private Equity",
       "T. Rowe Price",
@@ -4048,7 +4048,7 @@
     "dateJoined": "2023-09-20",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Qiming Venture Partners",
       "Legend Capital",
@@ -4062,7 +4062,7 @@
     "dateJoined": "2022-04-07",
     "country": "Lithuania",
     "city": "Vilnius",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Catalyst",
       "BaltCap",
@@ -4105,7 +4105,7 @@
     "dateJoined": "2024-04-09",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "HTX Ventures",
       "Electric Capital",
@@ -4145,7 +4145,7 @@
     "dateJoined": "2018-05-15",
     "country": "United States",
     "city": "Boston",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "General Catalyst",
       "Digital Currency Group",
@@ -4214,7 +4214,7 @@
     "dateJoined": "2020-11-19",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital Israel",
       "Scale Venture Partners",
@@ -4228,7 +4228,7 @@
     "dateJoined": "2021-01-26",
     "country": "United States",
     "city": "Atlanta",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "ICONIQ Capital",
       "OpenView Venture Partners"
@@ -4241,7 +4241,7 @@
     "dateJoined": "2021-03-11",
     "country": "United States",
     "city": "Jersey City",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "ConsenSys Ventures",
       "Valar Ventures",
@@ -4255,7 +4255,7 @@
     "dateJoined": "2021-04-21",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Silversmith Capital Partners",
       "Susquehanna Growth Equity",
@@ -4283,7 +4283,7 @@
     "dateJoined": "2021-06-29",
     "country": "United States",
     "city": "South Jordan",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Spectrum Equity",
       "ICONIQ Capital",
@@ -4337,7 +4337,7 @@
     "dateJoined": "2021-07-28",
     "country": "Germany",
     "city": "Berlin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Balderton Capital",
       "General Catalyst",
@@ -4351,7 +4351,7 @@
     "dateJoined": "2021-08-10",
     "country": "United States",
     "city": "Oakland",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Uncork Capital",
       "Threshold Ventures",
@@ -4365,7 +4365,7 @@
     "dateJoined": "2018-12-18",
     "country": "United States",
     "city": "San Diego",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Jackson Square Ventures",
       "General Atlantic",
@@ -4407,7 +4407,7 @@
     "dateJoined": "2021-10-14",
     "country": "United States",
     "city": "Westerville",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tiger Global Management",
       "Insight Partners",
@@ -4421,7 +4421,7 @@
     "dateJoined": "2021-04-07",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tiger Global Management",
       "Sequoia Capital India",
@@ -4477,7 +4477,7 @@
     "dateJoined": "2021-12-15",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Andreessen Horowitz",
       "Blockchain Capital",
@@ -4505,7 +4505,7 @@
     "dateJoined": "2021-03-23",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Khosla Ventures",
       "Thrive Capital",
@@ -4519,7 +4519,7 @@
     "dateJoined": "2021-03-09",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Green Visor Capital",
       "CRE Venture Capital",
@@ -4533,7 +4533,7 @@
     "dateJoined": "2022-02-11",
     "country": "United States",
     "city": "Fort Lee",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Battery Ventures",
       "Andreessen Horowitz",
@@ -4547,7 +4547,7 @@
     "dateJoined": "2021-07-13",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Sequoia Capital",
@@ -4561,7 +4561,7 @@
     "dateJoined": "2021-02-18",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "New Enterprise Associates",
       "Accel",
@@ -4589,7 +4589,7 @@
     "dateJoined": "2019-06-25",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Bnk To The Future",
       "Trammell Ventures",
@@ -4617,7 +4617,7 @@
     "dateJoined": "2021-07-30",
     "country": "India",
     "city": "New Delhi",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Insight Partners",
       "Sequoia Capital India",
@@ -4645,7 +4645,7 @@
     "dateJoined": "2021-08-20",
     "country": "United States",
     "city": "Chatham",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Point72 Ventures",
       "Route 66 Ventures",
@@ -4673,7 +4673,7 @@
     "dateJoined": "2024-11-04",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Khosla Ventures",
       "Sequoia Capital",
@@ -4699,7 +4699,7 @@
     "dateJoined": "2023-10-17",
     "country": "China",
     "city": "Haidian",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Shenzhen Capital Group",
       "Shunwei Capital"
@@ -4712,7 +4712,7 @@
     "dateJoined": "2025-02-23",
     "country": "United States",
     "city": "Pittsburgh",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Institutional Venture Partners",
       "Spark Capital",
@@ -4726,7 +4726,7 @@
     "dateJoined": "2015-04-14",
     "country": "United States",
     "city": "Sunnyvale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Data Collective",
       "Formation 8",
@@ -4754,7 +4754,7 @@
     "dateJoined": "2021-06-22",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Atlantic",
       "Insight Partners",
@@ -4782,7 +4782,7 @@
     "dateJoined": "2018-05-30",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Notion Capital",
       "Scentan Ventures",
@@ -4796,7 +4796,7 @@
     "dateJoined": "2022-01-12",
     "country": "Spain",
     "city": "Barcelona",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "LocalGlobe",
       "Kinnevik",
@@ -4810,7 +4810,7 @@
     "dateJoined": "2021-09-14",
     "country": "United States",
     "city": "Scottsdale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Goldman Sachs Asset Management"
     ]
@@ -4835,7 +4835,7 @@
     "dateJoined": "2021-11-29",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "British Patient Capital",
       "SEB Venture Capital",
@@ -4849,7 +4849,7 @@
     "dateJoined": "2021-03-08",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "JTC Group",
       "Qatar Investment Authority",
@@ -4877,7 +4877,7 @@
     "dateJoined": "2022-06-09",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Motive Partners"
     ]
@@ -4903,7 +4903,7 @@
     "dateJoined": "2021-07-13",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Redpoint Ventures",
       "Goldcrest Capital",
@@ -4917,7 +4917,7 @@
     "dateJoined": "2019-10-17",
     "country": "United States",
     "city": "Raleigh",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Contour Venture Partners",
       "Battery Ventures",
@@ -4959,7 +4959,7 @@
     "dateJoined": "2021-03-01",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Vertex Ventures Israel",
       "Bessemer Venture Partners",
@@ -4973,7 +4973,7 @@
     "dateJoined": "2021-09-13",
     "country": "United States",
     "city": "Louisville",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Foundry Group",
       "General Atlantic",
@@ -4987,7 +4987,7 @@
     "dateJoined": "2021-08-03",
     "country": "Brazil",
     "city": "Sao Paulo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Big Bets",
       "General Atlantic",
@@ -5029,7 +5029,7 @@
     "dateJoined": "2021-04-14",
     "country": "United States",
     "city": "Mountain View",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "TDK Ventures",
       "Social Capital",
@@ -5043,7 +5043,7 @@
     "dateJoined": "2025-03-04",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "Fifth Down Capital"
@@ -5056,7 +5056,7 @@
     "dateJoined": "2023-10-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "1517 Fund",
       "Gradient Ventures",
@@ -5083,7 +5083,7 @@
     "dateJoined": "2021-06-17",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bessemer Venture Partners",
       "MoreVC",
@@ -5123,7 +5123,7 @@
     "dateJoined": "2021-03-22",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Coatue Managemeny",
       "Trinity Ventures",
@@ -5151,7 +5151,7 @@
     "dateJoined": "2021-09-09",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Warburg Pincus",
       "The Rise Fund",
@@ -5165,7 +5165,7 @@
     "dateJoined": "2020-11-17",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Aspect Ventures",
       "SingTel Innov8",
@@ -5206,7 +5206,7 @@
     "dateJoined": "2021-05-05",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Eclipse Ventures",
       "Fidelity Investments",
@@ -5220,7 +5220,7 @@
     "dateJoined": "2021-04-28",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Bain Capital Ventures",
@@ -5234,7 +5234,7 @@
     "dateJoined": "2022-02-16",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Chiratae Ventures",
       "March Capital Partners",
@@ -5276,7 +5276,7 @@
     "dateJoined": "2022-03-16",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sutter Hill Ventures",
       "Osage University Partners",
@@ -5318,7 +5318,7 @@
     "dateJoined": "2021-01-27",
     "country": "Israel",
     "city": "Ra'anana",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bessemer Venture Partners",
       "Pitango Venture Capital",
@@ -5332,7 +5332,7 @@
     "dateJoined": "2021-10-12",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bessemer Venture Partners",
       "Eight Roads Ventures",
@@ -5360,7 +5360,7 @@
     "dateJoined": "2022-01-05",
     "country": "India",
     "city": "Mumbai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "TPG Capital",
       "Apax Partners",
@@ -5388,7 +5388,7 @@
     "dateJoined": "2017-02-21",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Shunwei Capital Partners",
       "China Media Group",
@@ -5430,7 +5430,7 @@
     "dateJoined": "2021-04-29",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Liberty City Ventures",
       "RRE Ventures",
@@ -5444,7 +5444,7 @@
     "dateJoined": "2021-09-13",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Menlo Ventures",
       "GGV Capital",
@@ -5458,7 +5458,7 @@
     "dateJoined": "2020-07-15",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "T. Rowe Price",
       "Dragoneer Investment Group",
@@ -5486,7 +5486,7 @@
     "dateJoined": "2021-05-04",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Norwest Venture Partners",
       "Hillsven Capital",
@@ -5513,7 +5513,7 @@
     "dateJoined": "2021-06-01",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Emergence Capital Partners",
       "8VC",
@@ -5555,7 +5555,7 @@
     "dateJoined": "2021-12-01",
     "country": "Spain",
     "city": "Madrid",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Kibo Ventures",
       "SoftBank Group",
@@ -5582,7 +5582,7 @@
     "dateJoined": "2020-08-18",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "V FUND",
       "IDG Capital",
@@ -5678,7 +5678,7 @@
     "dateJoined": "2020-09-24",
     "country": "United States",
     "city": "Atlanta",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Relay Ventures",
       "TTV Capital",
@@ -5692,7 +5692,7 @@
     "dateJoined": "2021-12-10",
     "country": "Vietnam",
     "city": "Ho Chi Minh City",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Goodwater Capital",
       "Warburg Pincus",
@@ -5720,7 +5720,7 @@
     "dateJoined": "2021-07-28",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Alven Capital",
@@ -5762,7 +5762,7 @@
     "dateJoined": "2024-08-14",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Navitas Capital",
       "Point72 Ventures",
@@ -5803,7 +5803,7 @@
     "dateJoined": "2021-08-13",
     "country": "Argentina",
     "city": "Buenos Aires",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Soros Fund Management",
       "Ribbit Capital",
@@ -5817,7 +5817,7 @@
     "dateJoined": "2021-04-27",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Expa",
       "QED Investors",
@@ -5831,7 +5831,7 @@
     "dateJoined": "2021-05-05",
     "country": "Mexico",
     "city": "Mexico City",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Pantera Capital",
       "QED Investors",
@@ -5859,7 +5859,7 @@
     "dateJoined": "2020-10-06",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Google Ventures",
@@ -5915,7 +5915,7 @@
     "dateJoined": "2018-03-08",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital China",
       "Banyan Capital"
@@ -5942,7 +5942,7 @@
     "dateJoined": "2020-12-21",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "8VC",
       "Menlo Ventures",
@@ -5956,7 +5956,7 @@
     "dateJoined": "2025-04-22",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Coatue",
@@ -5983,7 +5983,7 @@
     "dateJoined": "2021-05-24",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sodexo Ventures",
       "SoftBank Group"
@@ -5996,7 +5996,7 @@
     "dateJoined": "2021-06-17",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Eight Roads Ventures",
       "One Peak Partners",
@@ -6010,7 +6010,7 @@
     "dateJoined": "2021-09-08",
     "country": "Brazil",
     "city": "Sao Paulo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Plug and Play Ventures",
       "Valor Capital Group",
@@ -6038,7 +6038,7 @@
     "dateJoined": "2021-08-10",
     "country": "India",
     "city": "Maharashtra",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Polychain Capital",
       "Coinbase Ventures",
@@ -6052,7 +6052,7 @@
     "dateJoined": "2020-10-27",
     "country": "United States",
     "city": "Santa Clara",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Foundation Capital",
       "Institutional Venture Partners",
@@ -6108,7 +6108,7 @@
     "dateJoined": "2022-02-08",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accel",
       "Passion Capital",
@@ -6177,7 +6177,7 @@
     "dateJoined": "2023-06-13",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google Ventures",
       "Kleiner Perkins Caufield & Byers",
@@ -6191,7 +6191,7 @@
     "dateJoined": "2022-03-14",
     "country": "United States",
     "city": "Orlando",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Tencent Holdings",
       "CRV",
@@ -6205,7 +6205,7 @@
     "dateJoined": "2022-12-17",
     "country": "Greece",
     "city": "Athens",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Breyer Capital",
       "Hedosophia"
@@ -6218,7 +6218,7 @@
     "dateJoined": "2025-08-20",
     "country": "United States",
     "city": "Mission Viejo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bezos Expeditions",
       "Prysm Capital",
@@ -6232,7 +6232,7 @@
     "dateJoined": "2025-06-25",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital"
     ]
@@ -6256,7 +6256,7 @@
     "dateJoined": "2023-01-11",
     "country": "Germany",
     "city": "Cologne",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Benchmark",
       "btov Partners",
@@ -6270,7 +6270,7 @@
     "dateJoined": "2021-01-25",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accel",
       "Aleph",
@@ -6322,7 +6322,7 @@
     "dateJoined": "2022-05-25",
     "country": "Hong Kong",
     "city": "Hong Kong",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Dragonfly Capital",
       "BAI Capital",
@@ -6336,7 +6336,7 @@
     "dateJoined": "2024-02-08",
     "country": "France",
     "city": "Cherbourg-Octeville",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital"
     ]
@@ -6374,7 +6374,7 @@
     "dateJoined": "2022-11-14",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Contrarian Ventures",
       "Molten Ventures",
@@ -6388,7 +6388,7 @@
     "dateJoined": "2023-05-02",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Salesforce Ventures",
@@ -6402,7 +6402,7 @@
     "dateJoined": "2023-05-02",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Salesforce Ventures",
@@ -6416,7 +6416,7 @@
     "dateJoined": "2021-07-19",
     "country": "Australia",
     "city": "Brisbane",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Y Combinator",
       "M12",
@@ -6430,7 +6430,7 @@
     "dateJoined": "2022-04-29",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "NextGen Venture Partners",
       "Prysm Capital",
@@ -6444,7 +6444,7 @@
     "dateJoined": "2021-11-08",
     "country": "United States",
     "city": "San Diego",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Cowboy Ventures",
       "Leaders Fund",
@@ -6458,7 +6458,7 @@
     "dateJoined": "2022-09-08",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Coinbase Ventures",
@@ -6472,7 +6472,7 @@
     "dateJoined": "2024-12-13",
     "country": "United States",
     "city": "Cambridge",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "OSS Capital",
       "Duke Capital Partners",
@@ -6486,7 +6486,7 @@
     "dateJoined": "2012-12-17",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "RRE Ventures",
       "Tiger Global",
@@ -6584,7 +6584,7 @@
     "dateJoined": "2019-03-27",
     "country": "United States",
     "city": "Miami",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Insight Partners",
       "TPG Alternative & Renewable Technologies",
@@ -6612,7 +6612,7 @@
     "dateJoined": "2019-06-20",
     "country": "United States",
     "city": "Sunnyvale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Nexus Venture Partners",
       "Tenaya Capital",
@@ -6640,7 +6640,7 @@
     "dateJoined": "2020-01-21",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Magma Venture Partners",
       "Pitango Venture Capital",
@@ -6654,7 +6654,7 @@
     "dateJoined": "2020-08-25",
     "country": "United States",
     "city": "Mountain View",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Viola Ventures",
       "Dell Technologies Capital",
@@ -6736,7 +6736,7 @@
     "dateJoined": "2021-04-20",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Highland Capital Partners",
       "Oak HC/FT Partners",
@@ -6750,7 +6750,7 @@
     "dateJoined": "2021-04-21",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Tomales Bay Capital",
       "Bain & Company",
@@ -6806,7 +6806,7 @@
     "dateJoined": "2022-01-06",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "frst",
@@ -6820,7 +6820,7 @@
     "dateJoined": "2021-05-11",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Matrix Partners China",
       "Sequoia Capital China",
@@ -6834,7 +6834,7 @@
     "dateJoined": "2021-05-19",
     "country": "United States",
     "city": "Miami",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "next47",
       "MaC Venture Capital",
@@ -6848,7 +6848,7 @@
     "dateJoined": "2021-06-15",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "CRV",
       "Blue Cloud Ventures",
@@ -6872,7 +6872,7 @@
     "dateJoined": "2025-07-17",
     "country": "United States",
     "city": "Dover",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Hummingbird Ventures"
@@ -6885,7 +6885,7 @@
     "dateJoined": "2021-06-18",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Undisclosed"
     ]
@@ -6920,7 +6920,7 @@
     "dateJoined": "2021-06-10",
     "country": "Mexico",
     "city": "Mexico City",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Alta Ventures Mexico",
       "General Atlantic",
@@ -6947,7 +6947,7 @@
     "dateJoined": "2021-07-20",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Insight Partners",
       "Tiger Global Management",
@@ -6988,7 +6988,7 @@
     "dateJoined": "2021-08-23",
     "country": "Nigeria",
     "city": "Lagos",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sequoia Capital China",
       "Source Code Capital",
@@ -7002,7 +7002,7 @@
     "dateJoined": "2021-09-08",
     "country": "United States",
     "city": "Santa Clara",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Ignition Partners",
       "Formation 8",
@@ -7044,7 +7044,7 @@
     "dateJoined": "2021-09-23",
     "country": "Singapore",
     "city": null,
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Vision Plus Capital",
       "GSR Ventures",
@@ -7058,7 +7058,7 @@
     "dateJoined": "2021-10-06",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Benchmark",
       "Altimeter Capital",
@@ -7072,7 +7072,7 @@
     "dateJoined": "2014-10-21",
     "country": "United States",
     "city": "Plantation",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Obvious Ventures",
       "Qualcomm Ventures",
@@ -7086,7 +7086,7 @@
     "dateJoined": "2021-10-28",
     "country": "United States",
     "city": "Portola Valley",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Almaz Capital Partners",
@@ -7100,7 +7100,7 @@
     "dateJoined": "2020-03-10",
     "country": "United States",
     "city": "Oakland",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "K9 Ventures",
       "Menlo Ventures",
@@ -7114,7 +7114,7 @@
     "dateJoined": "2021-11-10",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Gauss Ventures",
       "Ventura Capital",
@@ -7128,7 +7128,7 @@
     "dateJoined": "2021-06-08",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "ClalTech",
       "Vertex Ventures",
@@ -7142,7 +7142,7 @@
     "dateJoined": "2021-11-17",
     "country": "Israel",
     "city": "Netanya",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "Paradigm",
@@ -7156,7 +7156,7 @@
     "dateJoined": "2021-11-17",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Kleiner Perkins Caufield & Byers",
@@ -7211,7 +7211,7 @@
     "dateJoined": "2021-01-06",
     "country": "United States",
     "city": "Santa Clara",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Redpoint Ventures",
@@ -7225,7 +7225,7 @@
     "dateJoined": "2022-02-15",
     "country": "Indonesia",
     "city": "Jakarta",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "DCM Ventures",
       "IDG Capital",
@@ -7252,7 +7252,7 @@
     "dateJoined": "2021-07-12",
     "country": "Denmark",
     "city": "Aarhus",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "SEED Capital",
       "Greyhound Capital",
@@ -7294,7 +7294,7 @@
     "dateJoined": "2022-03-31",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Tiger Global Management",
       "Lightspeed Venture Partners",
@@ -7322,7 +7322,7 @@
     "dateJoined": "2021-10-26",
     "country": "United States",
     "city": "Cambridge",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Insight Partners",
       "Kibo Ventures",
@@ -7390,7 +7390,7 @@
     "dateJoined": "2022-06-07",
     "country": "South Korea",
     "city": "Seoul",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Black Pearl Ventures",
       "Stonebridge Ventures",
@@ -7432,7 +7432,7 @@
     "dateJoined": "2024-11-12",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Aspect Ventures",
       "Upfront Ventures",
@@ -7446,7 +7446,7 @@
     "dateJoined": "2019-02-01",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "K2VC",
       "Lightspeed China Partners",
@@ -7460,7 +7460,7 @@
     "dateJoined": "2021-09-13",
     "country": "Germany",
     "city": "Munich",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "High-Tech Grunderfonds",
       "Bayern Kapital",
@@ -7474,7 +7474,7 @@
     "dateJoined": "2021-01-13",
     "country": "United States",
     "city": "Lehi",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Point72 Ventures",
       "Pelion Venture Partners",
@@ -7488,7 +7488,7 @@
     "dateJoined": "2021-10-06",
     "country": "India",
     "city": "Bangalore",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tiger Global Management",
       "Sequoia Capital India",
@@ -7502,7 +7502,7 @@
     "dateJoined": "2022-03-09",
     "country": "United States",
     "city": "Irvine",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "e.ventures",
       "Bain Capital Ventures",
@@ -7530,7 +7530,7 @@
     "dateJoined": "2022-03-10",
     "country": "United States",
     "city": "Oakland",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Khosla Ventures",
       "Bain Capital Ventures",
@@ -7610,7 +7610,7 @@
     "dateJoined": "2022-08-16",
     "country": "South Korea",
     "city": "Seoul",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Salesforce Ventures",
       "ATP Investment",
@@ -7624,7 +7624,7 @@
     "dateJoined": "2021-09-15",
     "country": "United States",
     "city": "Boston",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "The Carlyle Group",
       "CVC Capital Partners"
@@ -7665,7 +7665,7 @@
     "dateJoined": "2023-03-14",
     "country": "Seychelles",
     "city": null,
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "OKX Ventures",
       "Sequoia Capital China",
@@ -7693,7 +7693,7 @@
     "dateJoined": "2023-04-03",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "AlbionVC",
       "Dawn Capital",
@@ -7707,7 +7707,7 @@
     "dateJoined": "2021-08-04",
     "country": "United States",
     "city": "Atlanta",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google Ventures",
       "Kleiner Perkins Caufield & Byers",
@@ -7764,7 +7764,7 @@
     "dateJoined": "2021-11-28",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Gunosy Capital",
       "Blume Ventures",
@@ -7792,7 +7792,7 @@
     "dateJoined": "2021-06-07",
     "country": "Canada",
     "city": "Vancouver",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Blumberg Capital",
       "American Express Ventures",
@@ -7806,7 +7806,7 @@
     "dateJoined": "2020-12-18",
     "country": "Brazil",
     "city": "Sao Paulo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Kaszek Ventures",
       "Amadeus Capital Partners",
@@ -7820,7 +7820,7 @@
     "dateJoined": "2023-08-16",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Redpoint Ventures",
       "Craft Ventures",
@@ -7848,7 +7848,7 @@
     "dateJoined": "2021-03-23",
     "country": "United States",
     "city": "Portland",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "YL Ventures",
       "Redpoint Ventures",
@@ -7890,7 +7890,7 @@
     "dateJoined": "2023-08-02",
     "country": null,
     "city": "Hong Kong",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "HongShan",
       "Horizons Ventures",
@@ -7904,7 +7904,7 @@
     "dateJoined": "2021-05-18",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "RPM Ventures",
       "Inspiration Ventures",
@@ -7974,7 +7974,7 @@
     "dateJoined": "2022-04-11",
     "country": "United States",
     "city": "Greenwood Village",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Liberty Global Ventures",
       "Sageview Capital",
@@ -7988,7 +7988,7 @@
     "dateJoined": "2022-06-08",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Google Ventures",
@@ -8002,7 +8002,7 @@
     "dateJoined": "2022-06-28",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "Uncork Capital",
@@ -8072,7 +8072,7 @@
     "dateJoined": "2022-10-13",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "A16z Crypto",
       "Variant Fund",
@@ -8086,7 +8086,7 @@
     "dateJoined": "2022-08-15",
     "country": "Singapore",
     "city": null,
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Jungle Ventures",
       "Square Peg Capital",
@@ -8140,7 +8140,7 @@
     "dateJoined": "2021-05-11",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Threshold Ventures",
       "Baseline Ventures",
@@ -8154,7 +8154,7 @@
     "dateJoined": "2021-09-07",
     "country": "Senegal",
     "city": "Dakar",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Stripe",
       "Founders Fund",
@@ -8182,7 +8182,7 @@
     "dateJoined": "2021-11-04",
     "country": "United States",
     "city": "Redwood City",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Crosslink Capital",
       ".406 Ventures",
@@ -8196,7 +8196,7 @@
     "dateJoined": "2021-11-07",
     "country": "United States",
     "city": "Mountain View",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Nexus Venture Partners",
       "Transamerica Ventures",
@@ -8210,7 +8210,7 @@
     "dateJoined": "2021-11-09",
     "country": "United States",
     "city": "Austin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Greycroft",
       "Lerer Hippeau",
@@ -8238,7 +8238,7 @@
     "dateJoined": "2022-02-02",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Kleiner Perkins Caufield & Byers",
@@ -8252,7 +8252,7 @@
     "dateJoined": "2022-02-16",
     "country": "United States",
     "city": "Los Angeles",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "SoftBank Group",
       "Access Industries",
@@ -8266,7 +8266,7 @@
     "dateJoined": "2022-03-17",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Paradigm",
       "Huobi Ventures",
@@ -8307,7 +8307,7 @@
     "dateJoined": "2018-07-09",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Boxin Capital",
       "DT Capital Partners",
@@ -8321,7 +8321,7 @@
     "dateJoined": "2021-07-21",
     "country": "United States",
     "city": "Los Angeles",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Polaris Partners",
       "Insight Partners",
@@ -8335,7 +8335,7 @@
     "dateJoined": "2024-05-15",
     "country": "United States",
     "city": "Campbell",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Qualcomm Ventures",
       "Hitachi Ventures",
@@ -8363,7 +8363,7 @@
     "dateJoined": "2015-06-16",
     "country": "China",
     "city": "Chongqing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Cybernaut Growth Fund",
       "IDG Capital"
@@ -8376,7 +8376,7 @@
     "dateJoined": "2021-07-13",
     "country": "Germany",
     "city": "Berlin",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Yabeo Capital",
       "SBI Investment",
@@ -8390,7 +8390,7 @@
     "dateJoined": "2023-08-29",
     "country": "United States",
     "city": "Covina",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Nexus Venture Partners",
       "Sequoia Capital",
@@ -8431,7 +8431,7 @@
     "dateJoined": "2021-03-03",
     "country": "United States",
     "city": "Sunnyvale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "Bain Capital Ventures",
@@ -8445,7 +8445,7 @@
     "dateJoined": "2022-05-24",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "GGV Capital",
       "Accel",
@@ -8459,7 +8459,7 @@
     "dateJoined": "2022-03-17",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Greylock Partners",
@@ -8487,7 +8487,7 @@
     "dateJoined": "2023-10-18",
     "country": "Australia",
     "city": "Sydney",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "OneVentures",
       "AirTree Ventures",
@@ -8540,7 +8540,7 @@
     "dateJoined": "2025-03-12",
     "country": "Mexico",
     "city": "Mexico City",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Coatue"
     ]
@@ -8552,7 +8552,7 @@
     "dateJoined": "2024-04-16",
     "country": "United States",
     "city": "Culver City",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Venrock",
       "Endeavor",
@@ -8566,7 +8566,7 @@
     "dateJoined": "2021-05-19",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "March Capital Partners",
       "HOF Capital",
@@ -8580,7 +8580,7 @@
     "dateJoined": "2021-06-08",
     "country": "Japan",
     "city": "Tokyo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "BEENEXT",
       "World Innovation Lab",
@@ -8594,7 +8594,7 @@
     "dateJoined": "2021-07-03",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Andreessen Horowitz",
       "Coatue Management",
@@ -8608,7 +8608,7 @@
     "dateJoined": "2021-09-02",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Zeev Ventures",
       "Menlo Ventures",
@@ -8636,7 +8636,7 @@
     "dateJoined": "2022-02-01",
     "country": "Ireland",
     "city": "Dublin",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "QED Investors",
       "DST Global",
@@ -8650,7 +8650,7 @@
     "dateJoined": "2022-03-22",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sequoia Capital",
       "Index Ventures",
@@ -8678,7 +8678,7 @@
     "dateJoined": "2022-06-28",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Y Combinator",
       "Andreessen Horowitz",
@@ -8747,7 +8747,7 @@
     "dateJoined": "2021-09-30",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Bessemer Venture Partners",
       "Eniac Ventures",
@@ -8761,7 +8761,7 @@
     "dateJoined": "2024-06-18",
     "country": "United States",
     "city": "Ellicott City",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "ForgePoint Capital",
       "Sapphire Ventures",
@@ -8775,7 +8775,7 @@
     "dateJoined": "2021-03-01",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Centurium Capital",
       "Cedarlake Capital",
@@ -8845,7 +8845,7 @@
     "dateJoined": "2025-03-30",
     "country": "Ireland",
     "city": "Limerick",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "6MV"
     ]
@@ -8857,7 +8857,7 @@
     "dateJoined": "2025-07-31",
     "country": "United States",
     "city": "Austin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Catalyst",
       "Silicon Valley Bank",
@@ -8871,7 +8871,7 @@
     "dateJoined": "2025-07-31",
     "country": "United States",
     "city": "San Fransisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Notable Capital",
@@ -8899,7 +8899,7 @@
     "dateJoined": "2024-05-16",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sutter Hill Ventures",
       "Snowflake Ventures",
@@ -8937,7 +8937,7 @@
     "dateJoined": "2013-02-07",
     "country": "United States",
     "city": "Northbrook",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "General Atlantic"
@@ -8950,7 +8950,7 @@
     "dateJoined": "2022-06-07",
     "country": "Ecuador",
     "city": "Quito",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Clocktower Technology Ventures",
       "DILA Capital",
@@ -8964,7 +8964,7 @@
     "dateJoined": "2022-10-17",
     "country": "United States",
     "city": "Austin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Foundation Capital",
       "Institutional Venture Partners",
@@ -9018,7 +9018,7 @@
     "dateJoined": "2017-06-08",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Alibaba Group",
       "China Everbright Investment Management",
@@ -9142,7 +9142,7 @@
     "dateJoined": "2021-05-25",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sequoia Capital",
       "Y Combinator",
@@ -9156,7 +9156,7 @@
     "dateJoined": "2021-05-31",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Deciens Capital",
       "Bezos Expeditions",
@@ -9170,7 +9170,7 @@
     "dateJoined": "2021-06-10",
     "country": "France",
     "city": "Paris",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Digital Currency Group",
       "Draper Esprit",
@@ -9184,7 +9184,7 @@
     "dateJoined": "2021-06-14",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Amiti Ventures",
       "Playground Global",
@@ -9212,7 +9212,7 @@
     "dateJoined": "2021-07-13",
     "country": "United States",
     "city": "Santa Barbara",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Redpoint Ventures",
       "Providence Equity Partners",
@@ -9226,7 +9226,7 @@
     "dateJoined": "2021-07-20",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Mayfield Fund",
       "Insight Partners",
@@ -9254,7 +9254,7 @@
     "dateJoined": "2021-07-29",
     "country": "Australia",
     "city": "Richmond",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Felicis Ventures",
       "Index Ventures",
@@ -9268,7 +9268,7 @@
     "dateJoined": "2021-08-04",
     "country": "United States",
     "city": "Draper",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Insight Partners",
       "Coinbase Ventures",
@@ -9282,7 +9282,7 @@
     "dateJoined": "2021-03-24",
     "country": "United States",
     "city": "Cincinnati",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Global Founders Capital",
       "Shea Ventures",
@@ -9310,7 +9310,7 @@
     "dateJoined": "2021-09-15",
     "country": "United Kingdom",
     "city": "Altrincham",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Scale Venture Partners",
       "Sapphire Ventures",
@@ -9324,7 +9324,7 @@
     "dateJoined": "2021-09-15",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Coatue Management",
       "Index Ventures",
@@ -9338,7 +9338,7 @@
     "dateJoined": "2021-09-27",
     "country": "Thailand",
     "city": "Bangkok",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Ant Group",
       "Charoen Pokphand Group",
@@ -9352,7 +9352,7 @@
     "dateJoined": "2021-09-29",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Spark Capital",
       "Google Ventures",
@@ -9366,7 +9366,7 @@
     "dateJoined": "2021-09-30",
     "country": "United States",
     "city": "Nashville",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Nyca Partners",
       "Index Ventures",
@@ -9380,7 +9380,7 @@
     "dateJoined": "2021-10-15",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accomplice",
       "Polychain Capital",
@@ -9394,7 +9394,7 @@
     "dateJoined": "2021-11-10",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "PSG",
       "ION Crossover Partners"
@@ -9421,7 +9421,7 @@
     "dateJoined": "2021-12-27",
     "country": "United States",
     "city": "Scottsdale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Brighton Park Capital",
       "Blue Cloud Ventures",
@@ -9435,7 +9435,7 @@
     "dateJoined": "2021-12-17",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Benchmark",
@@ -9463,7 +9463,7 @@
     "dateJoined": "2022-01-18",
     "country": "France",
     "city": "Paris",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Eight Roads Ventures",
@@ -9477,7 +9477,7 @@
     "dateJoined": "2022-01-26",
     "country": "Estonia",
     "city": "Tallinn",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Institutional Venture Partners",
@@ -9519,7 +9519,7 @@
     "dateJoined": "2022-02-16",
     "country": "United States",
     "city": "Bellevue",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Amplify Partners",
       "Addition",
@@ -9547,7 +9547,7 @@
     "dateJoined": "2022-04-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "DeFi Technologies",
       "Hypersphere Ventures",
@@ -9589,7 +9589,7 @@
     "dateJoined": "2022-05-12",
     "country": "Brazil",
     "city": "Sao Paulo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Viking Global Investors",
       "Riverwood Capital",
@@ -9617,7 +9617,7 @@
     "dateJoined": "2022-07-15",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Global Emerging Markets",
       "Sram & Mram Group",
@@ -9645,7 +9645,7 @@
     "dateJoined": "2024-12-24",
     "country": "Brazil",
     "city": "Campinas",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": []
   },
   {
@@ -9668,7 +9668,7 @@
     "dateJoined": "2022-05-10",
     "country": "United States",
     "city": "DC",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "BoxGroup",
       "Energy Impact Partners",
@@ -9682,7 +9682,7 @@
     "dateJoined": "2019-05-07",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Trinity Ventures",
       "Fifth Wall Ventures",
@@ -9723,7 +9723,7 @@
     "dateJoined": "2020-01-03",
     "country": "Brazil",
     "city": "Sao Paulo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Monashees+",
       "Andreessen Horowitz",
@@ -9737,7 +9737,7 @@
     "dateJoined": "2025-04-08",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel"
     ]
@@ -9814,7 +9814,7 @@
     "dateJoined": "2021-07-14",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Left Lane Capital",
       "Clocktower Technology Ventures",
@@ -9828,7 +9828,7 @@
     "dateJoined": "2022-02-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Slow Ventures",
       "Andreessen Horowitz",
@@ -9856,7 +9856,7 @@
     "dateJoined": "2020-01-28",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Thrive Capital",
@@ -9911,7 +9911,7 @@
     "dateJoined": "2024-11-26",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Sequoia Capital",
@@ -9925,7 +9925,7 @@
     "dateJoined": "2022-01-21",
     "country": "United States",
     "city": "Lehi",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Album VC",
       "Madrona Venture Group",
@@ -9939,7 +9939,7 @@
     "dateJoined": "2021-07-13",
     "country": "Singapore",
     "city": null,
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Vertex Ventures SE Asia",
       "Global Founders Capital",
@@ -10032,7 +10032,7 @@
     "dateJoined": "2021-12-20",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Bonfire Ventures",
       "Two Sigma Ventures",
@@ -10046,7 +10046,7 @@
     "dateJoined": "2022-01-11",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Initialized Capital",
@@ -10074,7 +10074,7 @@
     "dateJoined": "2022-01-25",
     "country": "United States",
     "city": "Austin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "March Capital Partners",
       "Temasek",
@@ -10088,7 +10088,7 @@
     "dateJoined": "2023-02-20",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "MUFG Innovation Partners",
       "Spark Capital"
@@ -10101,7 +10101,7 @@
     "dateJoined": "2022-01-26",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "TLV Partners",
       "Zeev Ventures",
@@ -10115,7 +10115,7 @@
     "dateJoined": "2023-08-30",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Walden Catalyst Ventures",
       "Pitango Venture Capital",
@@ -10143,7 +10143,7 @@
     "dateJoined": "2017-05-16",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "BNP Paribas",
       "Goldman Sachs",
@@ -10212,7 +10212,7 @@
     "dateJoined": "2020-12-31",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "New Enterprise Associates",
       "CRV",
@@ -10267,7 +10267,7 @@
     "dateJoined": "2021-02-03",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Goodwater Capital",
       "Entree Capital",
@@ -10323,7 +10323,7 @@
     "dateJoined": "2022-05-09",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Notion Capital",
       "Kindred Capital",
@@ -10337,7 +10337,7 @@
     "dateJoined": "2022-07-13",
     "country": "India",
     "city": "Pune",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sequoia Capital India",
       "Hummingbird Ventures",
@@ -10364,7 +10364,7 @@
     "dateJoined": "2021-04-07",
     "country": "United States",
     "city": "Ambler",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sierra Ventures",
       "AXA Venture Partners",
@@ -10378,7 +10378,7 @@
     "dateJoined": "2021-04-08",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Helion Venture Partners",
       "Tiger Global management",
@@ -10392,7 +10392,7 @@
     "dateJoined": "2021-04-13",
     "country": "United States",
     "city": "Pleasanton",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Signal Peak Ventures",
       "Owl Ventures",
@@ -10406,7 +10406,7 @@
     "dateJoined": "2021-06-08",
     "country": "Germany",
     "city": "Munich",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "BlackRock",
       "Tengelmann Ventures",
@@ -10420,7 +10420,7 @@
     "dateJoined": "2021-10-21",
     "country": "United States",
     "city": "Los Angeles",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Simon Equity Partners",
       "Wavemaker Partners",
@@ -10434,7 +10434,7 @@
     "dateJoined": "2021-12-02",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Innovation Endeavors",
       "s28 Capital",
@@ -10448,7 +10448,7 @@
     "dateJoined": "2022-02-10",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Y Combinator",
       "S Capital",
@@ -10503,7 +10503,7 @@
     "dateJoined": "2022-02-14",
     "country": "Brazil",
     "city": "Sao Paulo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Propel Venture Partners",
       "Monashees+",
@@ -10517,7 +10517,7 @@
     "dateJoined": "2022-04-28",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Contour Venture Partners",
       "Intel Capital",
@@ -10656,7 +10656,7 @@
     "dateJoined": "2021-08-04",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Wing Venture Capital",
       "Slow Ventures",
@@ -10724,7 +10724,7 @@
     "dateJoined": "2019-04-25",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Advantech Capital",
       "Temasek Holdings Ltd.",
@@ -10752,7 +10752,7 @@
     "dateJoined": "2018-07-19",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Qiming Venture Partners",
       "China Internet Investment Fund",
@@ -10885,7 +10885,7 @@
     "dateJoined": "2024-01-16",
     "country": "Hong Kong",
     "city": null,
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "OKX Ventures"
     ]
@@ -10939,7 +10939,7 @@
     "dateJoined": "2021-09-29",
     "country": "Mexico",
     "city": "Mexico City",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Kaszek Ventures",
       "QED Investors",
@@ -10953,7 +10953,7 @@
     "dateJoined": "2021-09-29",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Bessemer Venture Partners",
       "Menlo Ventures",
@@ -10981,7 +10981,7 @@
     "dateJoined": "2021-10-28",
     "country": "United States",
     "city": "Sunnyvale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Dell Technologies Capital",
@@ -10995,7 +10995,7 @@
     "dateJoined": "2022-01-14",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Liberty City Ventures",
       "Soros Fund Management",
@@ -11009,7 +11009,7 @@
     "dateJoined": "2022-01-11",
     "country": "United States",
     "city": "Long Beach",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Left Lane Capital",
       "Walden Venture Capital"
@@ -11035,7 +11035,7 @@
     "dateJoined": "2022-01-27",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Initialized Capital",
       "General Catalyst",
@@ -11063,7 +11063,7 @@
     "dateJoined": "2021-12-15",
     "country": "China",
     "city": "Guangzhou",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "UNITY VENTURES",
       "Qiming Venture Partners",
@@ -11077,7 +11077,7 @@
     "dateJoined": "2022-03-07",
     "country": "India",
     "city": "Chennai",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Insight Partners",
       "B Capital Group",
@@ -11147,7 +11147,7 @@
     "dateJoined": "2023-10-24",
     "country": "United States",
     "city": "Independence",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "GM Ventures",
       "Plymouth Growth Partners",
@@ -11173,7 +11173,7 @@
     "dateJoined": "2018-03-27",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "FirstMark Capital",
       "Tiger Global Management"
@@ -11199,7 +11199,7 @@
     "dateJoined": "2021-05-24",
     "country": "China",
     "city": "Beijing",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "IDG Capital",
       "Gaocheng Capital",
@@ -11213,7 +11213,7 @@
     "dateJoined": "2018-04-08",
     "country": "China",
     "city": "Guangzhou",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Dark Horse Technology Group",
       "Hopu Investment Management",
@@ -11227,7 +11227,7 @@
     "dateJoined": "2021-06-23",
     "country": "Greece",
     "city": "Athens",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "FTV Capital"
     ]
@@ -11267,7 +11267,7 @@
     "dateJoined": "2025-06-10",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel"
     ]
@@ -11293,7 +11293,7 @@
     "dateJoined": "2020-12-16",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "First Round Capital"
@@ -11306,7 +11306,7 @@
     "dateJoined": "2020-12-16",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "BOLDstart Ventures",
       "SAP.iO Fund",
@@ -11320,7 +11320,7 @@
     "dateJoined": "2024-03-14",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "MH Ventures",
       "Symbolic Capital",
@@ -11376,7 +11376,7 @@
     "dateJoined": "2023-10-31",
     "country": "Brazil",
     "city": "Sao Paulo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "General Atlantic"
     ]
@@ -11402,7 +11402,7 @@
     "dateJoined": "2021-12-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Dila Capital",
       "Framework Ventures",
@@ -11416,7 +11416,7 @@
     "dateJoined": "2021-12-21",
     "country": "United States",
     "city": "Boise",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Bessemer Venture Partners",
@@ -11444,7 +11444,7 @@
     "dateJoined": "2022-01-26",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital",
       "Y Combinator",
@@ -11458,7 +11458,7 @@
     "dateJoined": "2022-05-10",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Castle Island Ventures",
       "PayPal Ventures",
@@ -11472,7 +11472,7 @@
     "dateJoined": "2022-06-16",
     "country": "United States",
     "city": "Brookline",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "G Squared",
       "UiPath Ventures",
@@ -11500,7 +11500,7 @@
     "dateJoined": "2025-06-18",
     "country": "United States",
     "city": "Durham",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": []
   },
   {
@@ -11523,7 +11523,7 @@
     "dateJoined": "2021-01-05",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Tencent Holdings",
       "Delta Capital",
@@ -11591,7 +11591,7 @@
     "dateJoined": "2022-02-28",
     "country": "Turkey",
     "city": "Istanbul",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Wamda Capital",
       "Endeavor",
@@ -11633,7 +11633,7 @@
     "dateJoined": "2022-05-25",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "CRV",
       "Tiger Global Management",
@@ -11661,7 +11661,7 @@
     "dateJoined": "2021-10-12",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Glory Ventures",
       "Maniv Mobility"
@@ -11674,7 +11674,7 @@
     "dateJoined": "2024-09-12",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accel",
       "Nexus Ventures",
@@ -11688,7 +11688,7 @@
     "dateJoined": "2024-03-04",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Notion Capital",
       "Revaia",
@@ -11702,7 +11702,7 @@
     "dateJoined": "2025-06-18",
     "country": "United States",
     "city": "Vienna",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "AMD Ventures"
     ]
@@ -11714,7 +11714,7 @@
     "dateJoined": "2025-03-18",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Atlantic",
       "Lead Edge Capital",
@@ -11728,7 +11728,7 @@
     "dateJoined": "2024-06-25",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sapphire Ventures"
     ]
@@ -11768,7 +11768,7 @@
     "dateJoined": "2022-04-20",
     "country": "United States",
     "city": "Wilmington",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Emergence Capital",
       "Slack Fund",
@@ -11796,7 +11796,7 @@
     "dateJoined": "2020-06-23",
     "country": "Ireland",
     "city": "Dublin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "ICG"
     ]
@@ -11808,7 +11808,7 @@
     "dateJoined": "2020-07-16",
     "country": "United States",
     "city": "Seattle",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Madrona Venture Group",
       "Kleiner Perkins Caufield & Byers",
@@ -11822,7 +11822,7 @@
     "dateJoined": "2025-02-18",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sapphire Ventures",
       "Bain Capital Ventures",
@@ -11836,7 +11836,7 @@
     "dateJoined": "2021-02-03",
     "country": "United States",
     "city": "San Diego",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Georgian Partners",
       "Silver Lake",
@@ -11850,7 +11850,7 @@
     "dateJoined": "2021-02-17",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accel",
       "Greycroft",
@@ -11878,7 +11878,7 @@
     "dateJoined": "2021-03-26",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Index Ventures",
       "Sequoia Capital",
@@ -11892,7 +11892,7 @@
     "dateJoined": "2021-04-13",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital China",
       "Lenovo Capital and Incubator",
@@ -11906,7 +11906,7 @@
     "dateJoined": "2021-04-29",
     "country": "United States",
     "city": "San Jose",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "IA Ventures",
       "Khosla Ventures",
@@ -11920,7 +11920,7 @@
     "dateJoined": "2021-05-07",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Version One Ventures",
       "Bessemer Venture Partners",
@@ -11962,7 +11962,7 @@
     "dateJoined": "2021-08-03",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Qualcomm Ventures",
       "Accel",
@@ -11976,7 +11976,7 @@
     "dateJoined": "2021-08-31",
     "country": "United States",
     "city": "Princeton",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Pantera Capital",
       "Polychain Capital",
@@ -11990,7 +11990,7 @@
     "dateJoined": "2021-09-13",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Insight Partners",
       "Salesforce Ventures",
@@ -12004,7 +12004,7 @@
     "dateJoined": "2021-09-28",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Greylock Partners",
@@ -12102,7 +12102,7 @@
     "dateJoined": "2022-01-12",
     "country": "United States",
     "city": "Bellevue",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Mayfield",
       "Madrona Venture Group",
@@ -12116,7 +12116,7 @@
     "dateJoined": "2022-01-12",
     "country": "United States",
     "city": "Mountain View",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Advent International",
       "Battery Ventures",
@@ -12144,7 +12144,7 @@
     "dateJoined": "2022-02-22",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "FirstMark Capital",
       "Tiger Global Management",
@@ -12186,7 +12186,7 @@
     "dateJoined": "2022-05-17",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accel",
       "Better Tomorrow Ventures",
@@ -12200,7 +12200,7 @@
     "dateJoined": "2022-07-15",
     "country": "Mexico",
     "city": "Juarez",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Vision Plus Capital",
       "Source Code Capital",
@@ -12226,7 +12226,7 @@
     "dateJoined": "2024-03-27",
     "country": "United States",
     "city": "Santa Clara",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "The Engine Accelerator",
       "M Ventures",
@@ -12254,7 +12254,7 @@
     "dateJoined": "2021-12-09",
     "country": "United States",
     "city": "San Jose",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Matrix Partners",
       "Lightspeed Venture Partners",
@@ -12268,7 +12268,7 @@
     "dateJoined": "2024-07-25",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Khosla Ventures",
       "Mayfield",
@@ -12308,7 +12308,7 @@
     "dateJoined": "2019-03-27",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Russia-China Investment Fund",
       "Tencent Holdings",
@@ -12378,7 +12378,7 @@
     "dateJoined": "2024-03-26",
     "country": "Uzbekistan",
     "city": "Tashkent",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "FinSight Ventures"
     ]
@@ -12416,7 +12416,7 @@
     "dateJoined": "2021-06-16",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Pelion Venture Partners",
       "Foundation Capital",
@@ -12472,7 +12472,7 @@
     "dateJoined": "2023-11-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Menlo Ventures",
       "Norwest Venture Partners",
@@ -12486,7 +12486,7 @@
     "dateJoined": "2025-06-17",
     "country": "Israel",
     "city": "Ramat Gan",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "NewView Capital",
       "Brighton Park Capital",
@@ -12500,7 +12500,7 @@
     "dateJoined": "2022-08-10",
     "country": "Indonesia",
     "city": "Jakarta",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Ant Group",
       "Lazada",
@@ -12514,7 +12514,7 @@
     "dateJoined": "2025-02-11",
     "country": "Ireland",
     "city": "Dublin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel",
       "Addition",
@@ -12556,7 +12556,7 @@
     "dateJoined": "2022-06-14",
     "country": "United States",
     "city": "Santa Barbara",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Upfront Ventures",
       "Accel",
@@ -12570,7 +12570,7 @@
     "dateJoined": "2025-02-17",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bain Capital Ventures",
       "Aleph"
@@ -12583,7 +12583,7 @@
     "dateJoined": "2025-05-06",
     "country": "United States",
     "city": "Bellevue",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Madrona Venture Group",
       "Sequoia"
@@ -12596,7 +12596,7 @@
     "dateJoined": "2025-07-10",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Institutional Venture Partners",
       "Sequoia Capital"
@@ -12609,7 +12609,7 @@
     "dateJoined": "2021-01-06",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "N5 Capital",
       "CR Capital Mgmt",
@@ -12623,7 +12623,7 @@
     "dateJoined": "2024-07-29",
     "country": "United States",
     "city": "Honolulu",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Battery Ventures",
       "General Catalyst",
@@ -12651,7 +12651,7 @@
     "dateJoined": "2022-09-27",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Forestay Capital",
       "Alumni Ventures",
@@ -12665,7 +12665,7 @@
     "dateJoined": "2023-02-01",
     "country": "Egypt",
     "city": "Cairo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Middle East Venture Partners",
       "Endeavor",
@@ -12693,7 +12693,7 @@
     "dateJoined": "2024-01-26",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Matrix Partners India"
     ]
@@ -12747,7 +12747,7 @@
     "dateJoined": "2015-10-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Mithril",
       "iNovia Capital",
@@ -12775,7 +12775,7 @@
     "dateJoined": "2016-08-15",
     "country": "France",
     "city": "Roubaix",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "KKR",
       "TowerBrook Capital Partners"
@@ -12802,7 +12802,7 @@
     "dateJoined": "2019-05-21",
     "country": "United States",
     "city": "Redwood City",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Ardian",
       "Tiger Global Management",
@@ -12816,7 +12816,7 @@
     "dateJoined": "2020-01-09",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Opus Capital",
       "Genesis Partners",
@@ -12855,7 +12855,7 @@
     "dateJoined": "2021-02-08",
     "country": "Switzerland",
     "city": "Prilly",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Auriga",
       "Galeo Ventures",
@@ -12883,7 +12883,7 @@
     "dateJoined": "2021-05-20",
     "country": "United States",
     "city": "Los Angeles",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Zeev Ventures",
       "Group11",
@@ -12911,7 +12911,7 @@
     "dateJoined": "2021-06-22",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Pritzker Group Venture Capital",
       "Accel",
@@ -12953,7 +12953,7 @@
     "dateJoined": "2021-08-11",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "GGV Capital",
       "Lightspeed Venture Partners",
@@ -12981,7 +12981,7 @@
     "dateJoined": "2021-09-15",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital India",
       "Rocketship.vc",
@@ -12995,7 +12995,7 @@
     "dateJoined": "2021-10-13",
     "country": "United States",
     "city": "Seattle",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "8VC",
       "Norwest Venture Partners",
@@ -13037,7 +13037,7 @@
     "dateJoined": "2021-11-30",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Mangrove Capital Partners",
       "14W. ForgeLight"
@@ -13050,7 +13050,7 @@
     "dateJoined": "2021-11-30",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Khosla Ventures",
       "General Catalyst",
@@ -13064,7 +13064,7 @@
     "dateJoined": "2021-12-20",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Foundation Capital",
       "Frontier Ventures",
@@ -13106,7 +13106,7 @@
     "dateJoined": "2022-02-22",
     "country": "Canada",
     "city": "Waterloo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Edison Partners",
       "Georgian Partners",
@@ -13120,7 +13120,7 @@
     "dateJoined": "2022-02-22",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "New Enterprise Associates",
       "Koch Disruptive Technologies",
@@ -13134,7 +13134,7 @@
     "dateJoined": "2022-03-15",
     "country": "Germany",
     "city": "Chemnitz",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Insight Partners",
       "e.ventures",
@@ -13176,7 +13176,7 @@
     "dateJoined": "2022-05-03",
     "country": "United States",
     "city": "Oakland",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Kleiner Perkins Caufield & Byers",
       "s28 Capital",
@@ -13190,7 +13190,7 @@
     "dateJoined": "2022-05-17",
     "country": "United States",
     "city": "Burlingame",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Bessemer Venture Partners",
@@ -13205,7 +13205,7 @@
     "dateJoined": "2022-05-11",
     "country": "United States",
     "city": "Redwood City",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Founders Fund"
@@ -13231,7 +13231,7 @@
     "dateJoined": "2022-01-11",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Franklin Templeton",
       "Motive Partners. Apollo Global Management"
@@ -13325,7 +13325,7 @@
     "dateJoined": "2023-11-09",
     "country": "India",
     "city": "Mumbai",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": []
   },
   {
@@ -13335,7 +13335,7 @@
     "dateJoined": "2022-04-26",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Jump Capital",
       "Pantera Capital",
@@ -13363,7 +13363,7 @@
     "dateJoined": "2019-10-21",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "New Enterprise Associates",
       "Greylock Partners",
@@ -13377,7 +13377,7 @@
     "dateJoined": "2021-04-06",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "FundersClub",
       "Y Combinator",
@@ -13391,7 +13391,7 @@
     "dateJoined": "2021-11-10",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Founders Fund",
       "Upfront Ventures",
@@ -13405,7 +13405,7 @@
     "dateJoined": "2021-11-15",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bain Capital Tech Opportunities",
       "Andreessen Horowitz",
@@ -13446,7 +13446,7 @@
     "dateJoined": "2025-05-09",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Ribbit Capital",
       "Redpoint Ventures",
@@ -13487,7 +13487,7 @@
     "dateJoined": "2025-07-22",
     "country": "United States",
     "city": "Sunnyvale",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Radical Ventures"
     ]
@@ -13499,7 +13499,7 @@
     "dateJoined": "2022-01-19",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Adams Street Partners"
     ]
@@ -13525,7 +13525,7 @@
     "dateJoined": "2025-06-12",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Catalyst"
     ]
@@ -13549,7 +13549,7 @@
     "dateJoined": "2025-07-28",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Kleiner Perkins"
@@ -13562,7 +13562,7 @@
     "dateJoined": "2025-06-25",
     "country": "France",
     "city": "Paris",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Mulitcoin Capital"
     ]
@@ -13574,7 +13574,7 @@
     "dateJoined": "2024-05-16",
     "country": "India",
     "city": "Mumbai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Kedaara Capital",
       "Vitruvian Partners"
@@ -13587,7 +13587,7 @@
     "dateJoined": "2025-06-09",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bison Ventures",
       "Future Ventures",
@@ -13614,7 +13614,7 @@
     "dateJoined": "2025-05-20",
     "country": "United States",
     "city": "Lindon",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": []
   },
   {
@@ -13624,7 +13624,7 @@
     "dateJoined": "2025-02-26",
     "country": "United States",
     "city": null,
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Foresight Ventures"
     ]
@@ -13656,7 +13656,7 @@
     "dateJoined": "2024-10-08",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "NFX",
       "Lightspeed Venture Partners",
@@ -13670,7 +13670,7 @@
     "dateJoined": "2025-04-03",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google Ventures",
       "Lightspeed Ventures"
@@ -13709,7 +13709,7 @@
     "dateJoined": "2025-05-06",
     "country": "Germany",
     "city": "Berlin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Altimeter Capital"
     ]
@@ -13758,7 +13758,7 @@
     "dateJoined": "2025-06-23",
     "country": "New Zealand",
     "city": "Auckland",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bessemer Venture Partners",
       "Blackbird Ventures"
@@ -13771,7 +13771,7 @@
     "dateJoined": "2024-08-14",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": []
   },
   {
@@ -13808,7 +13808,7 @@
     "dateJoined": "2025-02-11",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "QVT",
       "Day One Ventures",
@@ -13822,7 +13822,7 @@
     "dateJoined": "2024-09-06",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "369 Growth Partners",
       "GTM Capital",
@@ -13836,7 +13836,7 @@
     "dateJoined": "2023-12-21",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Fin Capital",
       "Primary Venture Partners",
@@ -13850,7 +13850,7 @@
     "dateJoined": "2024-11-24",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "F-Prime Capital",
       "Eight Roads Ventures"
@@ -13863,7 +13863,7 @@
     "dateJoined": "2024-10-29",
     "country": "Nigeria",
     "city": "Lagos",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Lightrock",
       "Novastar Ventures",
@@ -13877,7 +13877,7 @@
     "dateJoined": "2024-12-10",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Khosla Ventures",
       "OpenAI Startup Fund",
@@ -13931,7 +13931,7 @@
     "dateJoined": "2024-11-25",
     "country": "United States",
     "city": "Austin",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bain Capital Ventures",
       "SYN Ventures",
@@ -14007,7 +14007,7 @@
     "dateJoined": "2024-07-17",
     "country": "United States",
     "city": "Stanford",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Radical Ventures",
@@ -14035,7 +14035,7 @@
     "dateJoined": "2024-03-13",
     "country": "India",
     "city": "Mumbai",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Bessemer Venture Partners",
       "Teachers' Venture Growth"
@@ -14048,7 +14048,7 @@
     "dateJoined": "2024-06-26",
     "country": "Japan",
     "city": "Tokyo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lux Capital",
       "Khosla Ventures",
@@ -14062,7 +14062,7 @@
     "dateJoined": "2023-12-18",
     "country": "Saudi Arabia",
     "city": "Riyadh",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": []
   },
   {
@@ -14072,7 +14072,7 @@
     "dateJoined": "2024-07-17",
     "country": "United States",
     "city": "San Fransisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Khosla Ventures",
       "General Catalyst",
@@ -14086,7 +14086,7 @@
     "dateJoined": "2024-06-20",
     "country": "United States",
     "city": "Hoboken",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Tech Pioneers Fund",
       "Ten Eleven Ventures",
@@ -14114,7 +14114,7 @@
     "dateJoined": "2024-01-23",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "SingTel Innov8",
       "Citi Ventures",
@@ -14128,7 +14128,7 @@
     "dateJoined": "2024-04-03",
     "country": "France",
     "city": "Paris",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "FirstMark Capital",
       "Meritech Capital Partners",
@@ -14166,7 +14166,7 @@
     "dateJoined": "2023-12-13",
     "country": "United Arab Emirates",
     "city": "Abu Dhabi",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Framework Ventures",
       "Bain Capital Ventures",
@@ -14220,7 +14220,7 @@
     "dateJoined": "2024-07-29",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google Ventures",
       "Amadeus Capital Partners",
@@ -14234,7 +14234,7 @@
     "dateJoined": "2023-12-06",
     "country": "United States",
     "city": "San Fransisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "August Capital",
       "Ridge Ventures",
@@ -14248,7 +14248,7 @@
     "dateJoined": "2023-11-05",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": []
   },
   {
@@ -14258,7 +14258,7 @@
     "dateJoined": "2022-02-17",
     "country": "Switzerland",
     "city": "Lausanne",
-    "sector": "Health",
+    "sector": "Healthcare & Life Sciences",
     "investors": [
       "Hambro Perks"
     ]
@@ -14270,7 +14270,7 @@
     "dateJoined": "2023-05-15",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": []
   },
   {
@@ -14280,7 +14280,7 @@
     "dateJoined": "2024-02-01",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures"
     ]
@@ -14292,7 +14292,7 @@
     "dateJoined": "2023-07-21",
     "country": "Cayman Islands",
     "city": "Grand Cayman",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Paradigm",
       "Fabric Ventures"
@@ -14305,7 +14305,7 @@
     "dateJoined": "2023-06-29",
     "country": "United States",
     "city": "Los Altos",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google Ventures",
       "Salesforce Ventures",
@@ -14319,7 +14319,7 @@
     "dateJoined": "2023-09-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": []
   },
   {
@@ -14381,7 +14381,7 @@
     "dateJoined": "2018-11-30",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "IDG Capital"
     ]
@@ -14435,7 +14435,7 @@
     "dateJoined": "2024-02-28",
     "country": "Hong Kong",
     "city": null,
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Shima Capital",
       "CMCC Global",
@@ -14449,7 +14449,7 @@
     "dateJoined": "2020-06-18",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Opus Capital",
       "RRE Ventures",
@@ -14487,7 +14487,7 @@
     "dateJoined": "2023-03-14",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Greylock Partners",
       "Addition",
@@ -14501,7 +14501,7 @@
     "dateJoined": "2022-12-13",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "EQT Ventures",
@@ -14515,7 +14515,7 @@
     "dateJoined": "2022-08-15",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Andreessen Horowitz"
     ]
@@ -14527,7 +14527,7 @@
     "dateJoined": "2022-11-09",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "BDC Capital",
       "Georgian",
@@ -14554,7 +14554,7 @@
     "dateJoined": "2022-10-19",
     "country": "Liechtenstein",
     "city": "Vaduz",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Placeholder Capital",
       "Coinbase Ventures",
@@ -14568,7 +14568,7 @@
     "dateJoined": "2022-10-05",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed Venture Partners",
       "Coatue Management"
@@ -14581,7 +14581,7 @@
     "dateJoined": "2022-09-28",
     "country": "Italy",
     "city": "Milan",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Lightrock",
       "Greyhound Capital",
@@ -14595,7 +14595,7 @@
     "dateJoined": "2022-08-02",
     "country": "United States",
     "city": "Scotts Valley",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "BlueRun Ventures",
       "LEAP Global Partners",
@@ -14623,7 +14623,7 @@
     "dateJoined": "2022-06-14",
     "country": "France",
     "city": "Paris",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Astorg Partners",
       "Princeville Global",
@@ -14637,7 +14637,7 @@
     "dateJoined": "2022-05-22",
     "country": "Ireland",
     "city": "Kilkenny",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Railway Pension Trustee Co. Ltd."
     ]
@@ -14649,7 +14649,7 @@
     "dateJoined": "2013-10-10",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accel Partners",
       "Greylock Partners",
@@ -14691,7 +14691,7 @@
     "dateJoined": "2022-08-29",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Resolute Ventures",
       "Shima Capital",
@@ -14705,7 +14705,7 @@
     "dateJoined": "2014-12-02",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Kleiner Perkins Caufield & Byers",
       "Softbank Corp.",
@@ -14770,7 +14770,7 @@
     "dateJoined": "2015-04-21",
     "country": "China",
     "city": "Beijing",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Matrix Partners China",
       "Ventech China",
@@ -14784,7 +14784,7 @@
     "dateJoined": "2015-07-02",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "IDG Capital",
       "Northern Light Venture Capital",
@@ -14893,7 +14893,7 @@
     "dateJoined": "2017-08-02",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Standard Chartered",
       "FinSight Ventures",
@@ -14933,7 +14933,7 @@
     "dateJoined": "2017-11-08",
     "country": "Hong Kong",
     "city": null,
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sequoia Capital China",
       "ING",
@@ -14986,7 +14986,7 @@
     "dateJoined": "2018-05-24",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Fosun RZ Capital",
       "Oceanwide Holdings",
@@ -15000,7 +15000,7 @@
     "dateJoined": "2018-06-11",
     "country": "China",
     "city": "Wuxi",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "V Star Capital",
       "GF Xinde Investment Management Co.",
@@ -15054,7 +15054,7 @@
     "dateJoined": "2018-07-18",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Qiming Venture Partners",
       "China Broadband Capital",
@@ -15096,7 +15096,7 @@
     "dateJoined": "2018-10-10",
     "country": "United States",
     "city": "Charlotte",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "GCP Capital Partners"
     ]
@@ -15150,7 +15150,7 @@
     "dateJoined": "2018-11-06",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Georgian Co-Investment Fund",
       "iTech Capital",
@@ -15178,7 +15178,7 @@
     "dateJoined": "2019-01-22",
     "country": "United States",
     "city": "Menlo Park",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "SoftBank Group"
     ]
@@ -15258,7 +15258,7 @@
     "dateJoined": "2019-08-07",
     "country": "United States",
     "city": "Leawood",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Union Square Ventures",
       "Summerhill Venture Partners",
@@ -15272,7 +15272,7 @@
     "dateJoined": "2019-08-22",
     "country": "Switzerland",
     "city": "Zurich",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Investment Corporation of Dubai",
       "Centralway"
@@ -15285,7 +15285,7 @@
     "dateJoined": "2019-10-16",
     "country": "Brazil",
     "city": "Curitiba",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "FTV Capital",
       "Endeavor"
@@ -15368,7 +15368,7 @@
     "dateJoined": "2020-07-30",
     "country": "Croatia",
     "city": "Vodnjan",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "One Equity Partners"
     ]
@@ -15422,7 +15422,7 @@
     "dateJoined": "2021-06-03",
     "country": "United States",
     "city": "Redwood City",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Costanoa Ventures",
       "Data Collective",
@@ -15450,7 +15450,7 @@
     "dateJoined": "2021-01-07",
     "country": "United States",
     "city": "Colorado Springs",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Insight Partners",
       "Bain Capital Ventures"
@@ -15491,7 +15491,7 @@
     "dateJoined": "2021-01-19",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Wellington Management",
       "Eurazeo",
@@ -15505,7 +15505,7 @@
     "dateJoined": "2021-01-27",
     "country": "United States",
     "city": "San Jose",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Storm Ventures",
       "DFJ DragonFund",
@@ -15575,7 +15575,7 @@
     "dateJoined": "2021-03-10",
     "country": "Israel",
     "city": "Ramat Gan",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "TLV Partners",
       "Lightspeed Venture Partners",
@@ -15589,7 +15589,7 @@
     "dateJoined": "2021-03-16",
     "country": "Singapore",
     "city": null,
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital China",
       "Shunwei Capital Partners",
@@ -15618,7 +15618,7 @@
     "dateJoined": "2021-03-24",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Global Founders Capital",
       "Shea Ventures",
@@ -15646,7 +15646,7 @@
     "dateJoined": "2021-04-11",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Yinhong Equity Investment Fund",
       "E Fund",
@@ -15688,7 +15688,7 @@
     "dateJoined": "2021-04-20",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Pantera Capital",
       "Cadenza Ventures",
@@ -15702,7 +15702,7 @@
     "dateJoined": "2021-04-22",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Union Square Ventures",
       "Insight Partners",
@@ -15716,7 +15716,7 @@
     "dateJoined": "2021-04-09",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Tiger Global Management",
       "Hedosophia"
@@ -15743,7 +15743,7 @@
     "dateJoined": "2021-04-29",
     "country": "United States",
     "city": "Redwood City",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Smilegate Investment",
       "DSC Investments",
@@ -15771,7 +15771,7 @@
     "dateJoined": "2021-06-01",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Eastern Bell Capital",
       "Danhua Capital",
@@ -15839,7 +15839,7 @@
     "dateJoined": "2021-05-13",
     "country": "United States",
     "city": "Berkeley Heights",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Helion Venture Partners",
       "Bain Capital Tech Opportunities",
@@ -15853,7 +15853,7 @@
     "dateJoined": "2021-05-17",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Invus Group",
       "Hanaco Venture Capital",
@@ -15867,7 +15867,7 @@
     "dateJoined": "2021-05-18",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sequoia Capital",
       "Founders Fund",
@@ -15893,7 +15893,7 @@
     "dateJoined": "2021-06-01",
     "country": "Singapore",
     "city": null,
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Dragonfly Captial",
       "Qiming Venture Partners",
@@ -15991,7 +15991,7 @@
     "dateJoined": "2021-06-15",
     "country": "China",
     "city": "Shenzhen",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "GGV Capital",
       "Hillhouse Capital Management",
@@ -16005,7 +16005,7 @@
     "dateJoined": "2021-06-16",
     "country": "Israel",
     "city": "Tel Aviv",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Salesforce Ventures",
       "next47",
@@ -16033,7 +16033,7 @@
     "dateJoined": "2021-06-29",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Day One Ventures",
       "Coinbase Ventures",
@@ -16047,7 +16047,7 @@
     "dateJoined": "2021-06-24",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Javelin Venture Partners",
       "TTV Capital",
@@ -16061,7 +16061,7 @@
     "dateJoined": "2021-06-08",
     "country": "United States",
     "city": "Washington DC",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Advance Venture Partners",
       "Susquehanna Growth Equity",
@@ -16075,7 +16075,7 @@
     "dateJoined": "2021-06-29",
     "country": "Canada",
     "city": "Vancouver",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Foundation Capital",
       "Summit Partners",
@@ -16102,7 +16102,7 @@
     "dateJoined": "2021-07-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "General Catalyst",
       "Future Ventures",
@@ -16116,7 +16116,7 @@
     "dateJoined": "2021-07-13",
     "country": "United States",
     "city": "Seattle",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Madrona Venture Group",
       "Tiger Global Management",
@@ -16130,7 +16130,7 @@
     "dateJoined": "2021-07-13",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Foundry Group",
       "Scale Venture Partners",
@@ -16172,7 +16172,7 @@
     "dateJoined": "2021-07-14",
     "country": "United States",
     "city": "Lincoln",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Bain Capital"
     ]
@@ -16198,7 +16198,7 @@
     "dateJoined": "2021-08-10",
     "country": "Canada",
     "city": "Toronto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Accomplice",
       "Oak Investment Partners",
@@ -16323,7 +16323,7 @@
     "dateJoined": "2021-09-09",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accomplice",
       "Juxtapose",
@@ -16337,7 +16337,7 @@
     "dateJoined": "2021-09-14",
     "country": "Indonesia",
     "city": "Jakarta",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Accel",
       "Y Combinator",
@@ -16351,7 +16351,7 @@
     "dateJoined": "2021-09-21",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Anthemis",
       "Connect Ventures",
@@ -16379,7 +16379,7 @@
     "dateJoined": "2021-09-22",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Rembrandt Venture Partners",
       "M12",
@@ -16462,7 +16462,7 @@
     "dateJoined": "2021-10-04",
     "country": "Indonesia",
     "city": "Jakarta",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Softbank Ventures Asia",
       "Alpha JWC Ventures",
@@ -16490,7 +16490,7 @@
     "dateJoined": "2021-10-05",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Left Lane Capital",
       "Galaxy Interactive",
@@ -16504,7 +16504,7 @@
     "dateJoined": "2021-10-07",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Greylock Partners",
       "Lux Capital",
@@ -16518,7 +16518,7 @@
     "dateJoined": "2021-10-07",
     "country": "United States",
     "city": "Cambridge",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "True Ventures",
       "Altimeter Capital",
@@ -16546,7 +16546,7 @@
     "dateJoined": "2021-10-11",
     "country": "France",
     "city": "Montpellier",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "IDInvest Partners",
@@ -16560,7 +16560,7 @@
     "dateJoined": "2021-10-19",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "IAG Capital Partners",
       "Augmentum Fintech",
@@ -16630,7 +16630,7 @@
     "dateJoined": "2021-11-02",
     "country": "China",
     "city": "Beijing",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "GGV Capital",
       "GSR Ventures",
@@ -16644,7 +16644,7 @@
     "dateJoined": "2021-11-02",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Sequoia Capital China",
       "Linear Venture",
@@ -16670,7 +16670,7 @@
     "dateJoined": "2021-11-08",
     "country": "South Korea",
     "city": "Seoul",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Korea Investment Private Equity",
       "Atinum Investment",
@@ -16684,7 +16684,7 @@
     "dateJoined": "2021-11-09",
     "country": "United States",
     "city": "Los Altos",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Acero Capital",
       "General Catalyst",
@@ -16726,7 +16726,7 @@
     "dateJoined": "2025-07-17",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bond",
       "Andreessen Horowitz",
@@ -16754,7 +16754,7 @@
     "dateJoined": "2021-11-17",
     "country": "United States",
     "city": "Bellingham",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Goldman Sachs Asset Management",
       "3L"
@@ -16767,7 +16767,7 @@
     "dateJoined": "2021-11-18",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Index Ventures",
       "Benchmark",
@@ -16795,7 +16795,7 @@
     "dateJoined": "2021-11-18",
     "country": "United States",
     "city": "Herndon",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Paladin Capital Group",
       "Greycroft",
@@ -16809,7 +16809,7 @@
     "dateJoined": "2021-11-23",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "General Atlantic",
       "Elevation Capital",
@@ -16823,7 +16823,7 @@
     "dateJoined": "2021-11-30",
     "country": "United States",
     "city": "Scottsdale",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Khosla Ventures",
       "General Catalyst",
@@ -16837,7 +16837,7 @@
     "dateJoined": "2021-12-06",
     "country": "Mexico",
     "city": "Mexico City",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "DST Global",
       "General Catalyst",
@@ -16851,7 +16851,7 @@
     "dateJoined": "2021-12-06",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "RRE Ventures+",
       "Highland Capital Partners",
@@ -16865,7 +16865,7 @@
     "dateJoined": "2021-12-07",
     "country": "United States",
     "city": "Berkeley",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Intel Capital",
@@ -16893,7 +16893,7 @@
     "dateJoined": "2021-12-01",
     "country": "United States",
     "city": "Tampa",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "KKR",
       "FTV Capital",
@@ -16935,7 +16935,7 @@
     "dateJoined": "2021-12-08",
     "country": "France",
     "city": "Paris",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "NewAlpha",
       "XAnge Private Equity",
@@ -16963,7 +16963,7 @@
     "dateJoined": "2021-12-13",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Triangle Peak Partners",
@@ -17089,7 +17089,7 @@
     "dateJoined": "2022-01-11",
     "country": "Israel",
     "city": "Petah Tikva",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "AWZ Ventures",
       "Blackstone",
@@ -17103,7 +17103,7 @@
     "dateJoined": "2022-01-25",
     "country": "India",
     "city": "Hyderabad",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lightspeed India Partners",
       "Sequoia Capital India",
@@ -17117,7 +17117,7 @@
     "dateJoined": "2022-01-26",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "General Catalyst",
       "Nexus Venture Partners",
@@ -17131,7 +17131,7 @@
     "dateJoined": "2022-01-27",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Next Play Ventures",
       "Zeal Capital Partners",
@@ -17145,7 +17145,7 @@
     "dateJoined": "2022-02-01",
     "country": "Chile",
     "city": "Santiago",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "QED Investors",
       "DST Global",
@@ -17159,7 +17159,7 @@
     "dateJoined": "2022-02-02",
     "country": "Norway",
     "city": "Oslo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Multicoin Capital",
       "Coatue Management",
@@ -17173,7 +17173,7 @@
     "dateJoined": "2022-02-09",
     "country": "Switzerland",
     "city": "Zurich",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Atomico",
       "NGP Capital",
@@ -17187,7 +17187,7 @@
     "dateJoined": "2022-02-14",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Earlybird Venture Capital",
       "Eleven Ventures",
@@ -17201,7 +17201,7 @@
     "dateJoined": "2022-02-08",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Kleiner Perkins Caufield & Byers",
       "Sequoia Capital"
@@ -17214,7 +17214,7 @@
     "dateJoined": "2022-02-15",
     "country": "Canada",
     "city": "Waterloo",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Lemniscap VC",
       "North Island Ventures",
@@ -17228,7 +17228,7 @@
     "dateJoined": "2022-02-22",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Battery Ventures",
       "Tiger Global Management",
@@ -17242,7 +17242,7 @@
     "dateJoined": "2022-02-22",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Nexus Venture Partners",
       "Vertex Ventures",
@@ -17256,7 +17256,7 @@
     "dateJoined": "2022-02-22",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "New Enterprise Associates",
       "Benchmark",
@@ -17270,7 +17270,7 @@
     "dateJoined": "2022-02-23",
     "country": "Italy",
     "city": "Milan",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Fasanara Capital",
       "Tiger Global Management",
@@ -17298,7 +17298,7 @@
     "dateJoined": "2022-02-23",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "8VC",
       "Liberty Strategic Capital",
@@ -17312,7 +17312,7 @@
     "dateJoined": "2022-02-24",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Craft Ventures",
       "F-Prime Capital",
@@ -17326,7 +17326,7 @@
     "dateJoined": "2022-03-07",
     "country": "United States",
     "city": "New York",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Polychain Capital",
       "Paradigm",
@@ -17340,7 +17340,7 @@
     "dateJoined": "2022-03-15",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Andreessen Horowitz",
       "Coinbase Ventures",
@@ -17354,7 +17354,7 @@
     "dateJoined": "2022-03-21",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Wildcat Capital Management",
       "Insight Partners",
@@ -17410,7 +17410,7 @@
     "dateJoined": "2022-03-29",
     "country": "United States",
     "city": "New York",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Primary Venture Partners",
       "Bessemer Venture Partners",
@@ -17494,7 +17494,7 @@
     "dateJoined": "2022-10-11",
     "country": "Spain",
     "city": "Barcelona",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "K Fund",
       "Creandum",
@@ -17522,7 +17522,7 @@
     "dateJoined": "2022-04-28",
     "country": "Germany",
     "city": "Berlin",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Valar Ventures",
       "Index Ventures",
@@ -17536,7 +17536,7 @@
     "dateJoined": "2022-05-02",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "3one4 Capital Partners",
       "Tiger Global Management",
@@ -17550,7 +17550,7 @@
     "dateJoined": "2022-05-09",
     "country": "Japan",
     "city": "Tokyo",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Sinar Mas Digital Ventures",
       "JIC Venture Growth Investments",
@@ -17576,7 +17576,7 @@
     "dateJoined": "2022-05-11",
     "country": "Colombia",
     "city": "Bogota",
-    "sector": "Financial Services",
+    "sector": "Finance",
     "investors": [
       "Homebrew",
       "Inspired Capital",
@@ -17604,7 +17604,7 @@
     "dateJoined": "2022-06-08",
     "country": "United States",
     "city": "Boston",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "DFJ Growth Fund",
       "Dell Technologies Capital",
@@ -17618,7 +17618,7 @@
     "dateJoined": "2022-06-02",
     "country": "United States",
     "city": "Morrisville",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Bain Capital Ventures",
       "Splunk Ventures",
@@ -17646,7 +17646,7 @@
     "dateJoined": "2022-06-21",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Gaja Capital Partners",
       "Stakeboat Capital",
@@ -17660,7 +17660,7 @@
     "dateJoined": "2022-06-21",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Hyde Park Venture Partners",
       "Bain Capital Ventures",
@@ -17688,7 +17688,7 @@
     "dateJoined": "2022-07-12",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Enterprise Tech",
+    "sector": "Tech",
     "investors": [
       "Google Ventures",
       "Accel",

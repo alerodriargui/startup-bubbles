@@ -1,13 +1,19 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import * as d3 from 'd3';
-import axios from 'axios';
-import './App.css';
 import startupsData from './data/startups.json';
+import './App.css';
 
 function App() {
   const [allStartups, setAllStartups] = useState([]);
   const [startups, setStartups] = useState([]);
   const [limit, setLimit] = useState("100"); // por defecto Top 100
+  const simulationRef = useRef(null);
+
+  // Escala de colores para todos los sectores (constante)
+  const allSectors = Array.from(new Set(allStartups.map(d => d.sector)));
+  const colorScale = d3.scaleOrdinal()
+    .domain(allSectors)
+    .range(d3.schemeCategory10.concat(d3.schemeSet3).slice(0, allSectors.length));
 
   // Tooltip
   useEffect(() => {
@@ -26,13 +32,13 @@ function App() {
     }
   }, []);
 
-  // Traer datos del backend
-useEffect(() => {
-  const sorted = [...startupsData].sort((a, b) => b.valuation - a.valuation);
-  setAllStartups(sorted);
-}, []);
+  // Traer y ordenar datos
+  useEffect(() => {
+    const sorted = [...startupsData].sort((a, b) => b.valuation - a.valuation);
+    setAllStartups(sorted);
+  }, []);
 
-  // Filtrar según el límite
+  // Filtrar según límite
   useEffect(() => {
     if (limit === "all") {
       setStartups(allStartups);
@@ -42,88 +48,102 @@ useEffect(() => {
   }, [limit, allStartups]);
 
   // D3: dibujar burbujas
-useEffect(() => {
-  if (startups.length === 0) return;
+  useEffect(() => {
+    if (startups.length === 0) return;
 
-  const width = window.innerWidth * 0.9;
-  const height = window.innerHeight * 0.6;
+    const width = window.innerWidth * 0.9;
+    const height = window.innerHeight * 0.6;
 
-  d3.select('#chart').selectAll('*').remove();
-  const svg = d3.select('#chart')
-                .attr('width', width)
-                .attr('height', height)
-                .style('background', '#0e0e0e');
+    // limpiar SVG
+    d3.select('#chart').selectAll('*').remove();
+    const svg = d3.select('#chart')
+                  .attr('width', width)
+                  .attr('height', height)
+                  .style('background', '#0e0e0e');
+    const g = svg.append('g');
 
-  // Contenedor para aplicar transformaciones (zoom/pan)
-  const g = svg.append('g');
+    // escala de radios
+    const valuations = startups.map(d => d.valuation).sort((a,b) => a-b);
+    const minV = d3.quantile(valuations, 0.05);
+    const maxV = d3.quantile(valuations, 0.95);
+    const maxRadius = Math.min(100, width / (startups.length ** 0.5)); 
+    const radiusScale = d3.scaleSqrt()
+      .domain([minV, maxV])
+      .range([5, maxRadius])
+      .clamp(true);
 
-const valuations = startups.map(d => d.valuation).sort((a,b) => a-b);
-const minV = d3.quantile(valuations, 0.05);
-const maxV = d3.quantile(valuations, 0.95);
+    // --- Centros por sector dinámicos ---
+    const visibleSectors = Array.from(new Set(startups.map(d => d.sector)));
+    const cols = Math.ceil(Math.sqrt(visibleSectors.length));
+    const rowHeight = height / cols;
+    const colWidth = width / cols;
+    const sectorCenters = {};
+    visibleSectors.forEach((sector, i) => {
+      sectorCenters[sector] = {
+        x: colWidth * (i % cols + 0.5),
+        y: rowHeight * (Math.floor(i / cols) + 0.5),
+      };
+    });
 
-const radiusScale = d3.scaleSqrt()
-  .domain([minV, maxV])
-  .range([20, 80])
-  .clamp(true);
+    // --- Tooltip ---
+    const tooltip = d3.select('#tooltip');
 
+    function ticked() {
+      const u = g.selectAll('circle')
+                 .data(startups)
+                 .join('circle')
+                 .attr('r', d => radiusScale(d.valuation))
+                 .attr('cx', d => d.x)
+                 .attr('cy', d => d.y)
+                 .attr('fill', d => colorScale(d.sector))
+                 .attr('stroke', '#333')
+                 .attr('stroke-width', 1.5)
+                 .style('filter', 'drop-shadow(2px 2px 4px rgba(0,0,0,0.5))')
+                 .style('cursor', 'pointer');
 
+      u.on('mouseover', (event, d) => {
+          tooltip.style('opacity', 1)
+                 .html(`<b>${d.name}</b><br/>${d.sector}<br/>${(d.valuation / 1000).toFixed(1)}B$`)
+                 .style('left', (event.pageX + 10) + 'px')
+                 .style('top', (event.pageY + 10) + 'px');
+        })
+        .on('mousemove', (event) => {
+          tooltip.style('left', (event.pageX + 10) + 'px')
+                 .style('top', (event.pageY + 10) + 'px');
+        })
+        .on('mouseout', () => tooltip.style('opacity', 0));
+    }
 
-  const colorScale = d3.scaleOrdinal()
-                       .domain(['Tech', 'Health', 'Fintech', 'AI'])
-                       .range(['#f39c12', '#e74c3c', '#2ecc71', '#3498db']);
+    // --- Simulación ---
+    if (simulationRef.current) simulationRef.current.stop();
+    simulationRef.current = d3.forceSimulation(startups)
+      .force('charge', d3.forceManyBody().strength(-30))
+      .force('collision', d3.forceCollide().radius(d => radiusScale(d.valuation) + 2))
+      .force('x', d3.forceX(d => (sectorCenters[d.sector]?.x || width/2)).strength(0.2))
+      .force('y', d3.forceY(d => (sectorCenters[d.sector]?.y || height/2)).strength(0.2))
+      .on('tick', ticked)
+      .alpha(1)
+      .restart();
 
-const simulation = d3.forceSimulation(startups)
-  .force('charge', d3.forceManyBody().strength(-30)) // menos fuerte, para que no se repelan demasiado
-  .force('collision', d3.forceCollide().radius(d => radiusScale(d.valuation) + 2))
-  .force('x', d3.forceX(d => Math.random() * width).strength(0.05)) // posiciones aleatorias dentro del ancho
-  .force('y', d3.forceY(d => Math.random() * height).strength(0.05))
-  .on('tick', ticked);
+    // --- Zoom y pan ---
+    const zoom = d3.zoom()
+                   .scaleExtent([0.05, 5])
+                   .on('zoom', (event) => g.attr('transform', event.transform));
+    svg.call(zoom);
+    const initialScale = 0.6; // ajusta el zoom inicial (menos de 1 alejado)
+    const initialX = width / 2;
+    const initialY = height / 2;
+    svg.call(zoom.transform, d3.zoomIdentity.translate(initialX * (1 - initialScale), initialY * (1 - initialScale)).scale(initialScale));
 
+  }, [startups]);
 
-  const tooltip = d3.select('#tooltip');
-
-  function ticked() {
-    const u = g.selectAll('circle')
-               .data(startups)
-               .join('circle')
-               .attr('r', d => radiusScale(d.valuation))
-               .attr('cx', d => d.x)
-               .attr('cy', d => d.y)
-               .attr('fill', d => colorScale(d.sector))
-               .attr('stroke', '#333')
-               .attr('stroke-width', 1.5)
-               .style('filter', 'drop-shadow(2px 2px 4px rgba(0,0,0,0.5))')
-               .style('cursor', 'pointer');
-
-    u.on('mouseover', (event, d) => {
-        tooltip.style('opacity', 1)
-               .html(`<b>${d.name}</b><br/>${d.sector}<br/>${(d.valuation / 1000).toFixed(1)}B$`)
-               .style('left', (event.pageX + 10) + 'px')
-               .style('top', (event.pageY + 10) + 'px');
-      })
-      .on('mousemove', (event) => {
-        tooltip.style('left', (event.pageX + 10) + 'px')
-               .style('top', (event.pageY + 10) + 'px');
-      })
-      .on('mouseout', () => tooltip.style('opacity', 0));
-  }
-
-  // ZOOM y PAN
-  const zoom = d3.zoom()
-                 .scaleExtent([0.5, 5]) // mínimo 0.5x, máximo 5x
-                 .on('zoom', (event) => {
-                   g.attr('transform', event.transform);
-                 });
-
-  svg.call(zoom);
-
-}, [startups]);
-
+  // Leyenda solo con sectores visibles
+  const visibleSectors = Array.from(new Set(startups.map(d => d.sector)));
 
   return (
     <div className="App">
       <h1 style={{ color: 'white', textAlign: 'center', marginTop: '20px' }}>
-        Unicorn Startups Bubbles
+         Startup Bubbles
       </h1>
 
       {/* Selector Top N */}
@@ -140,17 +160,33 @@ const simulation = d3.forceSimulation(startups)
 
       <svg id="chart" style={{ display: 'block', margin: '0 auto' }}></svg>
 
+      {/* Leyenda de colores */}
+      <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', marginTop: '15px', gap: '10px' }}>
+        {visibleSectors.map(sector => (
+          <div key={sector} style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+            <div style={{
+              width: '18px',
+              height: '18px',
+              borderRadius: '50%',
+              backgroundColor: colorScale(sector),
+              border: '1px solid #fff'
+            }}></div>
+            <span style={{ color: 'white' }}>{sector}</span>
+          </div>
+        ))}
+      </div>
+
       {/* Tabla debajo del SVG */}
       <div className="table-container">
         <table>
           <thead>
             <tr>
               <th>#</th>
-              <th>Nombre</th>
+              <th>Name</th>
               <th>Value (B$)</th>
               <th>Sector</th>
               <th>Country</th>
-              <th>Date Joined</th>
+              
             </tr>
           </thead>
           <tbody>
@@ -161,7 +197,6 @@ const simulation = d3.forceSimulation(startups)
                 <td>{(s.valuation / 1000).toFixed(1)}</td>                
                 <td>{s.sector}</td>
                 <td>{s.country}</td>
-                <td>{s.dateJoined}</td>
               </tr>
             ))}
           </tbody>
