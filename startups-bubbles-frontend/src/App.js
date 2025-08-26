@@ -27,15 +27,10 @@ function App() {
   }, []);
 
   // Traer datos del backend
-  useEffect(() => {
-    axios.get('http://localhost:3001/api/startups')
-      .then(res => {
-        // Simulamos que backend devuelve startupsData
-        const sorted = [...startupsData].sort((a, b) => b.valuation - a.valuation);
-        setAllStartups(sorted);
-      })
-      .catch(err => console.error('Error al cargar startups:', err));
-  }, []);
+useEffect(() => {
+  const sorted = [...startupsData].sort((a, b) => b.valuation - a.valuation);
+  setAllStartups(sorted);
+}, []);
 
   // Filtrar según el límite
   useEffect(() => {
