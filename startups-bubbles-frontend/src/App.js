@@ -24,31 +24,35 @@ function App() {
 
   // === Ad script ===
   useEffect(() => {
-    // Script de configuración
-    const scriptConfig = document.createElement("script");
-    scriptConfig.innerHTML = `
-      atOptions = {
-        'key' : 'd274d9a90d252a4b7a7214157dd94810',
-        'format' : 'iframe',
-        'height' : 600,
-        'width' : 160,
-        'params' : {}
-      };
-    `;
-    document.body.appendChild(scriptConfig);
+  const container = document.getElementById('ad-container');
+  if (!container) return;
 
-    // Script de invocación
-    const scriptInvoke = document.createElement("script");
-    scriptInvoke.src = "//www.highperformanceformat.com/d274d9a90d252a4b7a7214157dd94810/invoke.js";
-    scriptInvoke.async = true;
-    document.body.appendChild(scriptInvoke);
-
-    // Cleanup al desmontar
-    return () => {
-      document.body.removeChild(scriptConfig);
-      document.body.removeChild(scriptInvoke);
+  // Script de configuración
+  const scriptConfig = document.createElement('script');
+  scriptConfig.innerHTML = `
+    atOptions = {
+      'key' : 'd274d9a90d252a4b7a7214157dd94810',
+      'format' : 'iframe',
+      'height' : 600,
+      'width' : 160,
+      'params' : {},
+      'container' : 'ad-container'  // importante
     };
-  }, []);
+  `;
+  container.appendChild(scriptConfig);
+
+  // Script de invocación
+  const scriptInvoke = document.createElement('script');
+  scriptInvoke.src = "//www.highperformanceformat.com/d274d9a90d252a4b7a7214157dd94810/invoke.js";
+  scriptInvoke.async = true;
+  container.appendChild(scriptInvoke);
+
+  // Cleanup al desmontar
+  return () => {
+    container.removeChild(scriptConfig);
+    container.removeChild(scriptInvoke);
+  };
+}, []);
   
   // Tooltip
   useEffect(() => {
@@ -217,6 +221,8 @@ function App() {
           <option value="all">All</option>
         </select>
       </div>
+      <div id="ad-container" style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}></div>
+
       <svg id="chart"   style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto', marginTop: '30px' }}></svg>
 
       {/* Leyenda de colores */}
