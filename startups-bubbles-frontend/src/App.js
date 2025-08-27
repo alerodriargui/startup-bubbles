@@ -2,6 +2,8 @@ import React, { useEffect, useState, useRef } from 'react';
 import * as d3 from 'd3';
 import startupsData from './data/startups.json';
 import './App.css';
+import AdComponent from './AdComponent';
+
 
 function App() {
   const [allStartups, setAllStartups] = useState([]);
@@ -21,33 +23,6 @@ function App() {
     .domain(allSectors)
     .range(brightColors.slice(0, allSectors.length));
 
-
-  // === Ad script ===
-  useEffect(() => {
-    // Script de configuración
-    window.atOptions = {
-      key: 'c084a98abc31060d7b59285c7b0100a6',
-      format: 'iframe',
-      height: 50,
-      width: 320,
-      params: {}
-    };
-
-    const scriptInvoke = document.createElement("script");
-    scriptInvoke.src = "//www.highperformanceformat.com/c084a98abc31060d7b59285c7b0100a6/invoke.js";
-    scriptInvoke.async = true;
-
-    // Insertarlo dentro del div #ad-container
-    const adContainer = document.getElementById("ad-container");
-    if (adContainer) {
-      adContainer.appendChild(scriptInvoke);
-    }
-
-    // Cleanup al desmontar
-    return () => {
-      if (adContainer) adContainer.removeChild(scriptInvoke);
-    };
-  }, []);
 
   
   // Tooltip
@@ -217,6 +192,9 @@ function App() {
           <option value="all">All</option>
         </select>
       </div>
+      
+      {/* Anuncio */}
+      <AdComponent />
       <svg id="chart"   style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto', marginTop: '30px' }}></svg>
 
       {/* Leyenda de colores */}
@@ -234,7 +212,6 @@ function App() {
           </div>
         ))}
       </div>
-      <div id="ad-container" style={{ textAlign: 'center', margin: '20px 0' }}></div>
 
       {/* Tabla debajo del SVG */}
       <div className="table-container">
