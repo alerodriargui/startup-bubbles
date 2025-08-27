@@ -24,35 +24,31 @@ function App() {
 
   // === Ad script ===
   useEffect(() => {
-  const container = document.getElementById('ad-container');
-  if (!container) return;
-
-  // Script de configuración
-  const scriptConfig = document.createElement('script');
-  scriptConfig.innerHTML = `
-    atOptions = {
-      'key' : 'd274d9a90d252a4b7a7214157dd94810',
-      'format' : 'iframe',
-      'height' : 600,
-      'width' : 160,
-      'params' : {},
-      'container' : 'ad-container'  // importante
+    // Script de configuración
+    window.atOptions = {
+      key: 'c084a98abc31060d7b59285c7b0100a6',
+      format: 'iframe',
+      height: 50,
+      width: 320,
+      params: {}
     };
-  `;
-  container.appendChild(scriptConfig);
 
-  // Script de invocación
-  const scriptInvoke = document.createElement('script');
-  scriptInvoke.src = "//www.highperformanceformat.com/d274d9a90d252a4b7a7214157dd94810/invoke.js";
-  scriptInvoke.async = true;
-  container.appendChild(scriptInvoke);
+    const scriptInvoke = document.createElement("script");
+    scriptInvoke.src = "//www.highperformanceformat.com/c084a98abc31060d7b59285c7b0100a6/invoke.js";
+    scriptInvoke.async = true;
 
-  // Cleanup al desmontar
-  return () => {
-    container.removeChild(scriptConfig);
-    container.removeChild(scriptInvoke);
-  };
-}, []);
+    // Insertarlo dentro del div #ad-container
+    const adContainer = document.getElementById("ad-container");
+    if (adContainer) {
+      adContainer.appendChild(scriptInvoke);
+    }
+
+    // Cleanup al desmontar
+    return () => {
+      if (adContainer) adContainer.removeChild(scriptInvoke);
+    };
+  }, []);
+
   
   // Tooltip
   useEffect(() => {
@@ -221,8 +217,6 @@ function App() {
           <option value="all">All</option>
         </select>
       </div>
-      <div id="ad-container" style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}></div>
-
       <svg id="chart"   style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto', marginTop: '30px' }}></svg>
 
       {/* Leyenda de colores */}
@@ -240,6 +234,7 @@ function App() {
           </div>
         ))}
       </div>
+      <div id="ad-container" style={{ textAlign: 'center', margin: '20px 0' }}></div>
 
       {/* Tabla debajo del SVG */}
       <div className="table-container">
