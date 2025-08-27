@@ -21,6 +21,35 @@ function App() {
     .domain(allSectors)
     .range(brightColors.slice(0, allSectors.length));
 
+
+  // === Ad script ===
+  useEffect(() => {
+    // Script de configuración
+    const scriptConfig = document.createElement("script");
+    scriptConfig.innerHTML = `
+      atOptions = {
+        'key' : 'd274d9a90d252a4b7a7214157dd94810',
+        'format' : 'iframe',
+        'height' : 600,
+        'width' : 160,
+        'params' : {}
+      };
+    `;
+    document.body.appendChild(scriptConfig);
+
+    // Script de invocación
+    const scriptInvoke = document.createElement("script");
+    scriptInvoke.src = "//www.highperformanceformat.com/d274d9a90d252a4b7a7214157dd94810/invoke.js";
+    scriptInvoke.async = true;
+    document.body.appendChild(scriptInvoke);
+
+    // Cleanup al desmontar
+    return () => {
+      document.body.removeChild(scriptConfig);
+      document.body.removeChild(scriptInvoke);
+    };
+  }, []);
+  
   // Tooltip
   useEffect(() => {
     if (!document.getElementById('tooltip')) {
