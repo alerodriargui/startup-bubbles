@@ -423,7 +423,7 @@
     "dateJoined": "2018-10-16",
     "country": "United States",
     "city": "Waltham",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Andreessen Horowitz",
       "F-Prime Capital",
@@ -631,7 +631,7 @@
     "dateJoined": "2023-01-31",
     "country": "United States",
     "city": "Austin",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Animal Capital",
       "Breyer Capital",
@@ -1035,7 +1035,7 @@
     "dateJoined": "2021-05-12",
     "country": "United States",
     "city": "Irving",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sixth Street Partners",
       "OrbiMed Advisors",
@@ -1216,7 +1216,7 @@
     "dateJoined": "2015-09-22",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Tencent",
       "Morningside Group"
@@ -1229,7 +1229,7 @@
     "dateJoined": "2020-07-27",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Initialized Capital",
       "General Catalyst",
@@ -1354,7 +1354,7 @@
     "dateJoined": "2019-03-19",
     "country": "France",
     "city": "Paris",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "BPI France",
       "Kerala Ventures",
@@ -1464,7 +1464,7 @@
     "dateJoined": "2021-04-14",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Thrive Capital",
       "Benchmark",
@@ -1520,7 +1520,7 @@
     "dateJoined": "2021-09-16",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "General Catalyst",
       "HCA Healthcare"
@@ -1953,7 +1953,7 @@
     "dateJoined": "2022-04-05",
     "country": "Finland",
     "city": "Oulu",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Forerunner Ventures",
       "Lifeline Ventures",
@@ -2218,7 +2218,7 @@
     "dateJoined": "2021-06-10",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Oak HC/FT Partners",
       "Artis Ventures",
@@ -2232,7 +2232,7 @@
     "dateJoined": "2021-08-10",
     "country": "United States",
     "city": "Boston",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sierra Ventures",
       "Battery Ventures",
@@ -2302,7 +2302,7 @@
     "dateJoined": "2020-08-25",
     "country": "United States",
     "city": "Burlingame",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Greylock Partners",
       "Venrock",
@@ -2372,7 +2372,7 @@
     "dateJoined": "2021-01-04",
     "country": "United States",
     "city": "Burlingame",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "General Catalyst",
       "Viking Global Investors",
@@ -2511,7 +2511,7 @@
     "dateJoined": "2021-04-19",
     "country": "France",
     "city": "Paris",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Index Ventures",
       "Temasek",
@@ -2623,7 +2623,7 @@
     "dateJoined": "2019-06-27",
     "country": "China",
     "city": "Beijing",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sequoia Capital China",
       "Qiming Venture Partners",
@@ -2881,7 +2881,7 @@
     "dateJoined": "2018-02-26",
     "country": "United States",
     "city": "El Segundo",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "New Enterprise Associates",
       "Starr Investment Holdings"
@@ -2908,7 +2908,7 @@
     "dateJoined": "2021-01-07",
     "country": "Canada",
     "city": "Mississauga",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Dragoneer Investment Group",
       "Hellman & Friedman",
@@ -3060,7 +3060,7 @@
     "dateJoined": "2018-07-31",
     "country": "China",
     "city": "Chengdu",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "China Health Industry Investment Fund",
       "China Renaissance",
@@ -3184,7 +3184,7 @@
     "dateJoined": "2021-05-24",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Qualcomm Ventures",
       "Samsung Ventures",
@@ -3212,7 +3212,7 @@
     "dateJoined": "2021-11-29",
     "country": "China",
     "city": "Suzhou",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Hillhouse Capital Management",
       "SoftBank Group",
@@ -3265,7 +3265,7 @@
     "dateJoined": "2020-10-28",
     "country": "United States",
     "city": "Boston",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "NextView Ventures",
       "Promus Ventures",
@@ -3307,7 +3307,7 @@
     "dateJoined": "2017-06-24",
     "country": "Germany",
     "city": "Duderstadt",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "EQT Partners"
     ]
@@ -3319,7 +3319,7 @@
     "dateJoined": "2025-02-19",
     "country": "United States",
     "city": "Cambridge",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sequoia Capital"
     ]
@@ -3647,7 +3647,7 @@
     "dateJoined": "2020-05-22",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Andreessen Horowitz",
       "IA Ventures",
@@ -3689,7 +3689,7 @@
     "dateJoined": "2021-09-16",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Rethink Impact",
       "Work-Bench",
@@ -3771,7 +3771,7 @@
     "dateJoined": "2021-03-09",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Thrive Capital",
       "Founders Fund",
@@ -3868,7 +3868,7 @@
     "dateJoined": "2021-02-19",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "M12",
       "WestBridge Capital",
@@ -3896,7 +3896,7 @@
     "dateJoined": "2022-01-06",
     "country": "United States",
     "city": "Hayward",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "The Column Group",
       "Foresite Capital",
@@ -4269,7 +4269,7 @@
     "dateJoined": "2019-09-17",
     "country": "United Kingdom",
     "city": "Cambridge",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Cambridge Innovation Capital",
       "LGT Capital Partners",
@@ -4323,7 +4323,7 @@
     "dateJoined": "2021-07-21",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Brookfield Asset Management",
       "Blackstone",
@@ -5179,7 +5179,7 @@
     "dateJoined": "2021-11-22",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Khosla Ventures",
       "Green Innovations",
@@ -5248,7 +5248,7 @@
     "dateJoined": "2022-02-23",
     "country": "United States",
     "city": "McLean",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "The Blue Venture Fund",
       "Flare Capital Partners",
@@ -5374,7 +5374,7 @@
     "dateJoined": "2021-03-15",
     "country": "United States",
     "city": "South San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Foresite Capital",
       "ARCH Venture Partners",
@@ -5527,7 +5527,7 @@
     "dateJoined": "2020-08-26",
     "country": "United States",
     "city": "South San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Andreessen Horowitz",
       "Data Collective",
@@ -5596,7 +5596,7 @@
     "dateJoined": "2022-01-11",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Alta Partners",
       "General Catalyst",
@@ -5845,7 +5845,7 @@
     "dateJoined": "2019-06-12",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "General Atlantic",
       "SoftBank Group",
@@ -6024,7 +6024,7 @@
     "dateJoined": "2024-04-23",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "ARCH Venture Partners",
       "Foresite Capital",
@@ -6094,7 +6094,7 @@
     "dateJoined": "2021-10-26",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "GSR Ventures",
       "Sapphire Ventures",
@@ -6122,7 +6122,7 @@
     "dateJoined": "2021-01-19",
     "country": "United States",
     "city": "Bethesda",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Venrock",
       "CVF Capital Partners",
@@ -6570,7 +6570,7 @@
     "dateJoined": "2019-02-06",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Insight Venture Partners",
       "TPG Growth",
@@ -6696,7 +6696,7 @@
     "dateJoined": "2020-12-02",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Caffeinated Capital",
       "Obvious Ventures",
@@ -6764,7 +6764,7 @@
     "dateJoined": "2021-04-27",
     "country": "Sweden",
     "city": "Stockholm",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Index Ventures",
       "Creandum",
@@ -6897,7 +6897,7 @@
     "dateJoined": "2025-01-23",
     "country": "Sweden",
     "city": "Stockholm",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Lightspeed Venture Partners",
       "General Catalyst"
@@ -7336,7 +7336,7 @@
     "dateJoined": "2023-01-11",
     "country": "United States",
     "city": "Dallas",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Health Velocity Capital"
     ]
@@ -7558,7 +7558,7 @@
     "dateJoined": "2022-03-29",
     "country": "United States",
     "city": "Boston",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sixth Street Partners",
       "Declaration Partners",
@@ -7637,7 +7637,7 @@
     "dateJoined": "2015-08-20",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Founders Fund",
       "Khosla Ventures",
@@ -7736,7 +7736,7 @@
     "dateJoined": "2021-09-23",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "SOSV",
       "Khosla Ventures",
@@ -7750,7 +7750,7 @@
     "dateJoined": "2023-03-02",
     "country": "United States",
     "city": "Kindbody",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "RRE Ventures",
       "Google Ventures",
@@ -7778,7 +7778,7 @@
     "dateJoined": "2021-10-26",
     "country": "United States",
     "city": "Brooklyn",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Future Ventures",
       "Apeiron Investment Group",
@@ -7960,7 +7960,7 @@
     "dateJoined": "2021-03-03",
     "country": "United States",
     "city": "Denver",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Alta Partners",
       "Questa Capital",
@@ -8016,7 +8016,7 @@
     "dateJoined": "2022-09-13",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "General Catalyst",
       "Samsung NEXT",
@@ -8030,7 +8030,7 @@
     "dateJoined": "2022-04-19",
     "country": "United States",
     "city": "Cambridge",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Altitude Life Science Ventures",
       "SoftBank Group",
@@ -8100,7 +8100,7 @@
     "dateJoined": "2021-03-16",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Andreessen Horowitz",
       "General Catalyst",
@@ -8114,7 +8114,7 @@
     "dateJoined": "2025-05-01",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "New Enterprise Associates"
     ]
@@ -8126,7 +8126,7 @@
     "dateJoined": "2024-01-09",
     "country": "United States",
     "city": "Palo Alto",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Insight Partners",
       "Sequoia Capital",
@@ -8293,7 +8293,7 @@
     "dateJoined": "2022-08-17",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Obvious Ventures",
       "Andreessen Horowitz",
@@ -8417,7 +8417,7 @@
     "dateJoined": "2021-11-10",
     "country": "India",
     "city": "Bengaluru",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Chiratae Ventures",
       "Accel",
@@ -8501,7 +8501,7 @@
     "dateJoined": "2021-11-18",
     "country": "United States",
     "city": "Cambridge",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Altitude Life Science Ventures. T. Rowe Price",
       "Morningside Venture Partners"
@@ -8528,7 +8528,7 @@
     "dateJoined": "2025-04-16",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Coatue"
     ]
@@ -8978,7 +8978,7 @@
     "dateJoined": "2022-08-16",
     "country": "United States",
     "city": "Cambridge",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "MPM Capital",
       "Astellas Venture Management",
@@ -9100,7 +9100,7 @@
     "dateJoined": "2019-06-17",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "New Enterprise Associates",
       "Founders Fund",
@@ -9696,7 +9696,7 @@
     "dateJoined": "2021-08-16",
     "country": "China",
     "city": "Beijing",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Marathon Venture Partners",
       "Huagai Capital",
@@ -9870,7 +9870,7 @@
     "dateJoined": "2021-05-06",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sequoia Capital China",
       "China Life Investment Holding Company",
@@ -9884,7 +9884,7 @@
     "dateJoined": "2021-07-28",
     "country": "United States",
     "city": "Denver",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Kickstart Fund",
       "General Catalyst",
@@ -9966,7 +9966,7 @@
     "dateJoined": "2025-01-13",
     "country": "India",
     "city": "Hyderabad",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": []
   },
   {
@@ -10004,7 +10004,7 @@
     "dateJoined": "2021-11-04",
     "country": "United States",
     "city": "Miami",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Initialized Capital",
       "Canaan Partners",
@@ -10295,7 +10295,7 @@
     "dateJoined": "2022-04-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "KKR",
       "Aspenwood Ventures",
@@ -10476,7 +10476,7 @@
     "dateJoined": "2022-06-14",
     "country": "United States",
     "city": "Redwood City",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sequoia Capital",
       "Four Rivers Group",
@@ -10738,7 +10738,7 @@
     "dateJoined": "2022-01-25",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "SC.Holdings",
       "Not Boring Capital",
@@ -10766,7 +10766,7 @@
     "dateJoined": "2020-09-30",
     "country": "United States",
     "city": "Framingham",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "ARCH Venture Partners",
       "Ally Bridge Group"
@@ -10789,7 +10789,7 @@
     "dateJoined": "2022-12-15",
     "country": "United States",
     "city": "Salt Lake City",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "InnoVentures Capital Partners"
     ]
@@ -10857,7 +10857,7 @@
     "dateJoined": "2017-12-04",
     "country": "United States",
     "city": "Redwood City",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "BlueCross BlueShield Venture Partners",
       "US Venture Partners"
@@ -10897,7 +10897,7 @@
     "dateJoined": "2020-12-03",
     "country": "United States",
     "city": "Austin",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Highland Capital Partners",
       "Next Coast Ventures",
@@ -11105,7 +11105,7 @@
     "dateJoined": "2022-02-01",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Caffeinated Capital",
       "Initialized Capital",
@@ -11161,7 +11161,7 @@
     "dateJoined": "2022-10-06",
     "country": "United States",
     "city": "Port Washington",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Nordic Capital"
     ]
@@ -11362,7 +11362,7 @@
     "dateJoined": "2021-10-05",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Andreessen Horowitz",
       "Prosus Ventures",
@@ -11537,7 +11537,7 @@
     "dateJoined": "2021-03-01",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Qiming Venture Partners"
     ]
@@ -11605,7 +11605,7 @@
     "dateJoined": "2022-02-15",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "The Column Group",
       "Alexandria Venture Investments",
@@ -11619,7 +11619,7 @@
     "dateJoined": "2020-11-16",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Jackson Square Ventures",
       "Madrone Capital Partners",
@@ -12018,7 +12018,7 @@
     "dateJoined": "2024-09-24",
     "country": "EGYM",
     "city": "Munich",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Bayern Kapital",
       "NGP Capital",
@@ -12074,7 +12074,7 @@
     "dateJoined": "2021-12-07",
     "country": "India",
     "city": "Gurugram",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sequoia Capital India",
       "Hummingbird Ventures",
@@ -12172,7 +12172,7 @@
     "dateJoined": "2022-04-07",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Kleiner Perkins Caufield & Byers",
       "CRV",
@@ -12214,7 +12214,7 @@
     "dateJoined": "2022-07-18",
     "country": "United Kingdom",
     "city": "Gloucester",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "CVC Capital Partners"
     ]
@@ -12364,7 +12364,7 @@
     "dateJoined": "2021-02-11",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Kleiner Perkins Caufield & Byers",
       "Afore Capital",
@@ -12444,7 +12444,7 @@
     "dateJoined": "2021-10-06",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "General Catalyst",
       "Bling Capital",
@@ -12542,7 +12542,7 @@
     "dateJoined": "2022-03-01",
     "country": "United States",
     "city": "San Jose",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Artiman Ventures",
       "Pitango Venture Capital",
@@ -12705,7 +12705,7 @@
     "dateJoined": "2023-10-05",
     "country": "United States",
     "city": "Orlando",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Accel",
       "Thrive Capital",
@@ -13162,7 +13162,7 @@
     "dateJoined": "2022-04-06",
     "country": "United States",
     "city": "Quincy",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Kaiser Permanente Ventures",
       "Endeavour Vision",
@@ -13433,7 +13433,7 @@
     "dateJoined": "2018-02-20",
     "country": "Israel",
     "city": "Jerusalem",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Intel Capital",
       "Aviv Venture Capital"
@@ -13511,7 +13511,7 @@
     "dateJoined": "2022-01-19",
     "country": "United States",
     "city": "Austin",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Silverton Partners",
       "Tusk Ventures",
@@ -13697,7 +13697,7 @@
     "dateJoined": "2025-04-23",
     "country": "United States",
     "city": "Austin",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Index Ventures"
     ]
@@ -13748,7 +13748,7 @@
     "dateJoined": "2024-01-13",
     "country": "United States",
     "city": "Bellevue",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": []
   },
   {
@@ -13891,7 +13891,7 @@
     "dateJoined": "2024-07-30",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Flint Capital",
       "Target Global",
@@ -13945,7 +13945,7 @@
     "dateJoined": "2022-10-10",
     "country": "United States",
     "city": "Chicago",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Legend Capital"
     ]
@@ -14142,7 +14142,7 @@
     "dateJoined": "2024-07-16",
     "country": "United Kingdom",
     "city": "London",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Leaps by Bayer",
       "Hitachi Ventures",
@@ -14156,7 +14156,7 @@
     "dateJoined": "2024-03-23",
     "country": "United Kingdom",
     "city": "Oxfordshire",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": []
   },
   {
@@ -14180,7 +14180,7 @@
     "dateJoined": "2023-12-19",
     "country": "United States",
     "city": "Dallas",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Insight Partners",
       "Texo Ventures"
@@ -14258,7 +14258,7 @@
     "dateJoined": "2022-02-17",
     "country": "Switzerland",
     "city": "Lausanne",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Hambro Perks"
     ]
@@ -14854,7 +14854,7 @@
     "dateJoined": "2016-04-12",
     "country": "China",
     "city": "Shenzhen",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Tencent",
       "Vcanbio"
@@ -14961,7 +14961,7 @@
     "dateJoined": "2018-04-10",
     "country": "China",
     "city": "Hangzhou",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Tencent Holdings",
       "DCM Ventures"
@@ -15014,7 +15014,7 @@
     "dateJoined": "2018-07-05",
     "country": "China",
     "city": "Beijing",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "China Investment Corporation",
       "New Enterprise Associates"
@@ -15354,7 +15354,7 @@
     "dateJoined": "2020-06-17",
     "country": "United States",
     "city": "Menlo Park",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Lightspeed Venture Partners",
       "Data Collective",
@@ -15380,7 +15380,7 @@
     "dateJoined": "2020-09-16",
     "country": "United States",
     "city": "Long Beach",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Novator Partners",
       "True",
@@ -15603,7 +15603,7 @@
     "dateJoined": "2021-03-22",
     "country": "United States",
     "city": "San Mateo",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "B Capital Group",
       "",
@@ -15674,7 +15674,7 @@
     "dateJoined": "2021-04-14",
     "country": "China",
     "city": "Chengdu",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Bertelsmann Asia Investments",
       "Sequoia Capital China",
@@ -15729,7 +15729,7 @@
     "dateJoined": "2021-04-28",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Thrive Capital",
       "Durable Capital Partners",
@@ -15921,7 +15921,7 @@
     "dateJoined": "2021-06-02",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Northzone Ventures",
       "Maveron",
@@ -15935,7 +15935,7 @@
     "dateJoined": "2021-06-07",
     "country": "Ireland",
     "city": "Dublin",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Optum Ventures",
       "Qiming Venture Partners",
@@ -16158,7 +16158,7 @@
     "dateJoined": "2021-07-12",
     "country": "China",
     "city": "Shanghai",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Qiming Venture Partners",
       "Vivo Capital",
@@ -16226,7 +16226,7 @@
     "dateJoined": "2021-08-17",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Female Founders Fund",
       "Oak HC/FT Partners",
@@ -16309,7 +16309,7 @@
     "dateJoined": "2021-09-09",
     "country": "United States",
     "city": "Brisbane",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "NFX",
       "Plum Alley",
@@ -16448,7 +16448,7 @@
     "dateJoined": "2021-09-30",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Sequoia Capital",
       "Thrive Capital",
@@ -16574,7 +16574,7 @@
     "dateJoined": "2021-10-21",
     "country": "France",
     "city": "Paris",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Vitruvian Partners",
       "Merieux Equity Partners",
@@ -16781,7 +16781,7 @@
     "dateJoined": "2021-11-18",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Google Ventures",
       "Cathay Innovation",
@@ -16879,7 +16879,7 @@
     "dateJoined": "2021-12-01",
     "country": "United States",
     "city": "Austin",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Advent International",
       "Bain Capital Ventures",
@@ -16977,7 +16977,7 @@
     "dateJoined": "2021-12-14",
     "country": "United States",
     "city": "New York",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Thrive Capital",
       "General Catalyst",
@@ -17284,7 +17284,7 @@
     "dateJoined": "2022-02-23",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "U.S. Venture Partners",
       "dRx Capital",
@@ -17424,7 +17424,7 @@
     "dateJoined": "2022-04-06",
     "country": "United States",
     "city": "Waltham",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Japan Industrial Partners",
       "Impact Investment Capital",
@@ -17466,7 +17466,7 @@
     "dateJoined": "2022-04-21",
     "country": "United States",
     "city": "San Francisco",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "iSeed Ventures",
       "Point Nine Capital",
@@ -17590,7 +17590,7 @@
     "dateJoined": "2022-06-08",
     "country": "United States",
     "city": "Nashville",
-    "sector": "Healthcare & Life Sciences",
+    "sector": "Healthcare",
     "investors": [
       "Bain Capital Ventures",
       "Splunk Ventures",

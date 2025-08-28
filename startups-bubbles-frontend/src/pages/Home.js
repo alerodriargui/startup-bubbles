@@ -10,10 +10,19 @@ function Home() {
   const [allStartups, setAllStartups] = useState([]);
   const [startups, setStartups] = useState([]);
   const [limit, setLimit] = useState("100"); // por defecto Top 100
+  const [countryFilter, setCountryFilter] = useState("all");
+const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' });
+
   const simulationRef = useRef(null);
 
   // Escala de colores para todos los sectores (constante)
   const allSectors = Array.from(new Set(allStartups.map(d => d.sector)));
+const allCountries = [
+  "all",
+  ...Array.from(new Set(allStartups
+        .map(d => d.country)
+        .filter(c => c && c.trim() !== "")))  // <<< filtramos vacíos
+];
   const brightColors = [
     "#FF5733", "#33FF57", "#3357FF", "#FF33A8", "#A833FF", 
     "#33FFF3", "#FFC733", "#FF3333", "#33FF8A", "#8A33FF",
@@ -24,7 +33,36 @@ function Home() {
     .domain(allSectors)
     .range(brightColors.slice(0, allSectors.length));
 
+const sortedStartups = React.useMemo(() => {
+  let sortable = [...startups];
+  if (sortConfig.key !== null) {
+    sortable.sort((a, b) => {
+      let aValue = a[sortConfig.key];
+      let bValue = b[sortConfig.key];
 
+      // Si es numérico
+      if (typeof aValue === 'number' && typeof bValue === 'number') {
+        return sortConfig.direction === 'asc' ? aValue - bValue : bValue - aValue;
+      }
+      // Si es texto
+      aValue = aValue?.toString().toLowerCase() || '';
+      bValue = bValue?.toString().toLowerCase() || '';
+      if (aValue < bValue) return sortConfig.direction === 'asc' ? -1 : 1;
+      if (aValue > bValue) return sortConfig.direction === 'asc' ? 1 : -1;
+      return 0;
+    });
+  }
+  return sortable;
+}, [startups, sortConfig]);
+
+// Handler para clic en columna
+const requestSort = (key) => {
+  let direction = 'asc';
+  if (sortConfig.key === key && sortConfig.direction === 'asc') {
+    direction = 'desc';
+  }
+  setSortConfig({ key, direction });
+};
   
   // Tooltip
   useEffect(() => {
@@ -49,14 +87,20 @@ function Home() {
     setAllStartups(sorted);
   }, []);
 
-  // Filtrar según límite
-  useEffect(() => {
-    if (limit === "all") {
-      setStartups(allStartups);
-    } else {
-      setStartups(allStartups.slice(0, parseInt(limit)));
-    }
-  }, [limit, allStartups]);
+// Filtrar según límite y país
+useEffect(() => {
+  let filtered = allStartups;
+
+  if (countryFilter !== "all") {
+    filtered = filtered.filter(s => s.country === countryFilter);
+  }
+
+  if (limit !== "all") {
+    filtered = filtered.slice(0, parseInt(limit));
+  }
+
+  setStartups(filtered);
+}, [limit, countryFilter, allStartups]);
 
   // D3: dibujar burbujas
   useEffect(() => {
@@ -176,7 +220,7 @@ function Home() {
 
 
         {/* Total valuation */}
-  <div style={{ textAlign: 'right',marginRight: '30px',color: 'white', fontWeight: 'bold', fontSize: '16px' }}>
+  <div style={{ textAlign: 'right',marginRight: '30px', marginTop: '5px', color: 'white', fontWeight: 'bold', fontSize: '16px' }}>
     Total Valuation: {(startups.reduce((acc, s) => acc + s.valuation, 0) / 1000000).toFixed(2)}T$
   </div>
 
@@ -190,6 +234,16 @@ function Home() {
           <option value="500">Top 500</option>
           <option value="1000">Top 1000</option>
           <option value="all">All</option>
+        </select>
+      </div>
+
+      {/* Selector de País */}
+      <div style={{ textAlign: 'center', marginBottom: '10px' }}>
+        <label style={{ color: 'white', marginRight: '10px' }}>Country:</label>
+        <select value={countryFilter} onChange={(e) => setCountryFilter(e.target.value)}>
+          {allCountries.map(c => (
+            <option key={c} value={c}>{c === "all" ? "All Countries" : c}</option>
+          ))}
         </select>
       </div>
       
@@ -227,27 +281,27 @@ function Home() {
       {/* Tabla debajo del SVG */}
       <div className="table-container">
         <table>
-          <thead>
-            <tr>
-              <th>#</th>
-              <th>Name</th>
-              <th>Value (B$)</th>
-              <th>Sector</th>
-              <th>Country</th>
-              
-            </tr>
-          </thead>
-          <tbody>
-            {startups.map((s, index) => (
-              <tr key={s.id}>
-                <td>{index + 1}</td>
-                <td>{s.name}</td>
-                <td>{(s.valuation / 1000).toFixed(1)}</td>                
-                <td>{s.sector}</td>
-                <td>{s.country}</td>
-              </tr>
-            ))}
-          </tbody>
+<thead>
+  <tr>
+    <th style={{cursor: 'pointer'}} onClick={() => requestSort('id')}>#</th>
+    <th style={{cursor: 'pointer'}} onClick={() => requestSort('name')}>Name</th>
+    <th style={{cursor: 'pointer'}} onClick={() => requestSort('valuation')}>Value (B$)</th>
+    <th style={{cursor: 'pointer'}} onClick={() => requestSort('sector')}>Sector</th>
+    <th style={{cursor: 'pointer'}} onClick={() => requestSort('country')}>Country</th>
+  </tr>
+</thead>
+<tbody>
+  {sortedStartups.map((s, index) => (
+    <tr key={s.id}>
+      <td>{s.id}</td>
+      <td>{s.name}</td>
+      <td>{(s.valuation / 1000).toFixed(1)}</td>
+      <td>{s.sector}</td>
+      <td>{s.country}</td>
+    </tr>
+  ))}
+</tbody>
+
         </table>
       </div>
     </div>
