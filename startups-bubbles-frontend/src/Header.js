@@ -31,8 +31,8 @@ function Header() {
           padding: 0
         }}>
           <li><Link to="/about" style={{ color: "white", textDecoration: "none" }}>About us</Link></li>
-          <li><Link to="/contact" style={{ color: "white", textDecoration: "none" }}>Contact</Link></li>
           <li><Link to="/faq" style={{ color: "white", textDecoration: "none" }}>FAQ</Link></li>
+          <li><Link to="/contact" style={{ color: "white", textDecoration: "none" }}>Contact</Link></li>
         </ul>
       </nav>
     </header>
