@@ -19,9 +19,12 @@ const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' });
   const allSectors = Array.from(new Set(allStartups.map(d => d.sector)));
 const allCountries = [
   "all",
-  ...Array.from(new Set(allStartups
-        .map(d => d.country)
-        .filter(c => c && c.trim() !== "")))  // <<< filtramos vacíos
+  ...Array.from(new Set(
+        allStartups
+          .map(d => d.country)
+          .filter(c => c && c.trim() !== "")
+      ))
+      .sort((a, b) => a.localeCompare(b)) // <<< orden alfabético
 ];
   const brightColors = [
     "#FF5733", "#33FF57", "#3357FF", "#FF33A8", "#A833FF", 
